@@ -1,0 +1,819 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="sex" attr.type="string" for="node" id="d2"/>
+<key attr.name="city" attr.type="string" for="node" id="d1"/>
+<key attr.name="directed" attr.type="boolean" for="graph" id="d0"/>
+<graph edgedefault="undirected"><data key="d0">False</data>
+<node id="Сергей Горбачёв">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Антон Наумов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Катя Минеева">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Евгений Правда">
+  <data key="d1">Vancouver</data>
+  <data key="d2">male</data>
+</node>
+<node id="Екатерина Глазкова">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Никита Ширин">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+</node>
+<node id="Наталья Соболева">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Антон Чернявский">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Камиль Лотфуллин">
+  <data key="d1">Казань</data>
+  <data key="d2">male</data>
+</node>
+<node id="Юлия Ренёва">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Максимилиан Артемьев">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Александр Чернявский">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Лёха Гавриков">
+  <data key="d1">Хабаровск</data>
+  <data key="d2">male</data>
+</node>
+<node id="Ярослав Ребенко">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Никита Нестеров">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Андрей Соколов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Валерий Батурин">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Мария Фоменко">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Евгений Мещеряков">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Михаил Флоринский">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+</node>
+<node id="Денис Тарасов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Егор Иванов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Ира Гутман">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Женя Соловьев">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Дарья Асатурян">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Артем Похмельных">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+</node>
+<node id="Соня Хегай">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Алина Щукина">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Глеб Вон">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Роман Цветков">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Дмитрий Сопов">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+</node>
+<node id="Лена Сопова">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Галина Серебряная">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+</node>
+<node id="Ирина Артюшина">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+</node>
+<node id="Денис Шаклеин">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Алексей Соловьёв">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Владислав Горбов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Илья Сапунов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Екатерина Алексеева">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Владислав Демидкин">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Александр Шмыров">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Богдан Драчук">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Олег Николаев">
+  <data key="d1">Харьков</data>
+  <data key="d2">male</data>
+</node>
+<node id="Дмитрий Ларькин">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Анастасия Петрищева">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Александр Панов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Евгений Сидоров">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Николай Кондрашов">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+</node>
+<node id="Юрий Баранов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Наталья Финкель">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+</node>
+<node id="Лиза Филонюк">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+</node>
+<node id="Ирина Лихачева">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+</node>
+<node id="Павел Мальков">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Дима Уткин">
+  <data key="d1">Воронеж</data>
+  <data key="d2">male</data>
+</node>
+<node id="Софья Шепелева">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+</node>
+<node id="Анна Двуреченская">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+</node>
+<node id="Инесса Шуйкова">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+</node>
+<node id="Оксана Пикалова">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+</node>
+<node id="Маргарита Мущак">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+</node>
+<node id="Наталья Некрасова">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Валерия Неклюдова">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+</node>
+<node id="Алена Поминова">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+</node>
+<node id="Анна Петрова">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Юлия Александрович">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Александр Еремеев">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+</node>
+<node id="Владимир Тагинцев">
+  <data key="d1">Воронеж</data>
+  <data key="d2">male</data>
+</node>
+<node id="Лиза Басинских">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+</node>
+<node id="Никита Пастухов">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+</node>
+<node id="Таня Никифорова">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Dанил Сапронов">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+</node>
+<node id="Никита Никифоров">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+</node>
+<node id="Елизавета Ильина">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Светлана Лазарева">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+</node>
+<node id="Глеб Чурсин">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+</node>
+<node id="Алексей Смирнов">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+</node>
+<node id="Илья Ставицкий">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+</node>
+<node id="Маргарита Петрусевич">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Илья Лыжин">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Алина Щеглеватых">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+</node>
+<node id="Иван Карамышев">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Марина Стюфляева">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+</node>
+<node id="Дмитрий Ельников">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+</node>
+<node id="Женёк Филиппов">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+</node>
+<node id="Алина Манюхина">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+</node>
+<node id="Илья Достойнов">
+  <data key="d1">Луганское</data>
+  <data key="d2">male</data>
+</node>
+<node id="Олег Ершов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Эдуард Пахомов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Анастасия Васильева">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+</node>
+<node id="Алексей Егоров">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+</node>
+<node id="Карен Мелконян">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+</node>
+<node id="Нияз Наибулин">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+</node>
+<node id="Ваня Спит">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+</node>
+<node id="Shoky Huss">
+  <data key="d1">Cairo</data>
+  <data key="d2">male</data>
+</node>
+<edge source="Сергей Горбачёв" target="Антон Наумов"/>
+<edge source="Сергей Горбачёв" target="Катя Минеева"/>
+<edge source="Сергей Горбачёв" target="Евгений Правда"/>
+<edge source="Сергей Горбачёв" target="Екатерина Глазкова"/>
+<edge source="Сергей Горбачёв" target="Никита Ширин"/>
+<edge source="Сергей Горбачёв" target="Наталья Соболева"/>
+<edge source="Сергей Горбачёв" target="Антон Чернявский"/>
+<edge source="Сергей Горбачёв" target="Камиль Лотфуллин"/>
+<edge source="Сергей Горбачёв" target="Юлия Ренёва"/>
+<edge source="Сергей Горбачёв" target="Максимилиан Артемьев"/>
+<edge source="Сергей Горбачёв" target="Александр Чернявский"/>
+<edge source="Сергей Горбачёв" target="Лёха Гавриков"/>
+<edge source="Сергей Горбачёв" target="Ярослав Ребенко"/>
+<edge source="Сергей Горбачёв" target="Никита Нестеров"/>
+<edge source="Сергей Горбачёв" target="Андрей Соколов"/>
+<edge source="Сергей Горбачёв" target="Валерий Батурин"/>
+<edge source="Сергей Горбачёв" target="Мария Фоменко"/>
+<edge source="Сергей Горбачёв" target="Евгений Мещеряков"/>
+<edge source="Сергей Горбачёв" target="Михаил Флоринский"/>
+<edge source="Сергей Горбачёв" target="Денис Тарасов"/>
+<edge source="Антон Наумов" target="Катя Минеева"/>
+<edge source="Антон Наумов" target="Евгений Правда"/>
+<edge source="Антон Наумов" target="Екатерина Глазкова"/>
+<edge source="Антон Наумов" target="Никита Ширин"/>
+<edge source="Антон Наумов" target="Наталья Соболева"/>
+<edge source="Антон Наумов" target="Денис Шаклеин"/>
+<edge source="Антон Наумов" target="Антон Чернявский"/>
+<edge source="Антон Наумов" target="Камиль Лотфуллин"/>
+<edge source="Антон Наумов" target="Юлия Ренёва"/>
+<edge source="Антон Наумов" target="Максимилиан Артемьев"/>
+<edge source="Антон Наумов" target="Александр Чернявский"/>
+<edge source="Антон Наумов" target="Алексей Соловьёв"/>
+<edge source="Антон Наумов" target="Лёха Гавриков"/>
+<edge source="Антон Наумов" target="Ярослав Ребенко"/>
+<edge source="Антон Наумов" target="Никита Нестеров"/>
+<edge source="Антон Наумов" target="Валерий Батурин"/>
+<edge source="Антон Наумов" target="Мария Фоменко"/>
+<edge source="Антон Наумов" target="Евгений Мещеряков"/>
+<edge source="Антон Наумов" target="Михаил Флоринский"/>
+<edge source="Антон Наумов" target="Денис Тарасов"/>
+<edge source="Катя Минеева" target="Евгений Правда"/>
+<edge source="Катя Минеева" target="Екатерина Глазкова"/>
+<edge source="Катя Минеева" target="Никита Ширин"/>
+<edge source="Катя Минеева" target="Наталья Соболева"/>
+<edge source="Катя Минеева" target="Антон Чернявский"/>
+<edge source="Катя Минеева" target="Камиль Лотфуллин"/>
+<edge source="Катя Минеева" target="Максимилиан Артемьев"/>
+<edge source="Катя Минеева" target="Александр Чернявский"/>
+<edge source="Катя Минеева" target="Лёха Гавриков"/>
+<edge source="Катя Минеева" target="Ярослав Ребенко"/>
+<edge source="Катя Минеева" target="Никита Нестеров"/>
+<edge source="Катя Минеева" target="Андрей Соколов"/>
+<edge source="Катя Минеева" target="Олег Николаев"/>
+<edge source="Катя Минеева" target="Валерий Батурин"/>
+<edge source="Катя Минеева" target="Михаил Флоринский"/>
+<edge source="Катя Минеева" target="Денис Тарасов"/>
+<edge source="Евгений Правда" target="Екатерина Глазкова"/>
+<edge source="Евгений Правда" target="Никита Ширин"/>
+<edge source="Евгений Правда" target="Денис Шаклеин"/>
+<edge source="Евгений Правда" target="Антон Чернявский"/>
+<edge source="Евгений Правда" target="Камиль Лотфуллин"/>
+<edge source="Евгений Правда" target="Юлия Ренёва"/>
+<edge source="Евгений Правда" target="Александр Чернявский"/>
+<edge source="Евгений Правда" target="Евгений Сидоров"/>
+<edge source="Евгений Правда" target="Лёха Гавриков"/>
+<edge source="Евгений Правда" target="Ярослав Ребенко"/>
+<edge source="Евгений Правда" target="Николай Кондрашов"/>
+<edge source="Евгений Правда" target="Никита Нестеров"/>
+<edge source="Евгений Правда" target="Юрий Баранов"/>
+<edge source="Евгений Правда" target="Валерий Батурин"/>
+<edge source="Евгений Правда" target="Михаил Флоринский"/>
+<edge source="Екатерина Глазкова" target="Никита Ширин"/>
+<edge source="Екатерина Глазкова" target="Наталья Соболева"/>
+<edge source="Екатерина Глазкова" target="Денис Шаклеин"/>
+<edge source="Екатерина Глазкова" target="Антон Чернявский"/>
+<edge source="Екатерина Глазкова" target="Юлия Ренёва"/>
+<edge source="Екатерина Глазкова" target="Максимилиан Артемьев"/>
+<edge source="Екатерина Глазкова" target="Александр Чернявский"/>
+<edge source="Екатерина Глазкова" target="Лёха Гавриков"/>
+<edge source="Екатерина Глазкова" target="Ярослав Ребенко"/>
+<edge source="Екатерина Глазкова" target="Валерий Батурин"/>
+<edge source="Екатерина Глазкова" target="Мария Фоменко"/>
+<edge source="Екатерина Глазкова" target="Михаил Флоринский"/>
+<edge source="Екатерина Глазкова" target="Денис Тарасов"/>
+<edge source="Никита Ширин" target="Наталья Соболева"/>
+<edge source="Никита Ширин" target="Камиль Лотфуллин"/>
+<edge source="Никита Ширин" target="Александр Чернявский"/>
+<edge source="Никита Ширин" target="Лёха Гавриков"/>
+<edge source="Никита Ширин" target="Ярослав Ребенко"/>
+<edge source="Никита Ширин" target="Никита Нестеров"/>
+<edge source="Никита Ширин" target="Андрей Соколов"/>
+<edge source="Никита Ширин" target="Олег Николаев"/>
+<edge source="Никита Ширин" target="Валерий Батурин"/>
+<edge source="Никита Ширин" target="Евгений Мещеряков"/>
+<edge source="Никита Ширин" target="Михаил Флоринский"/>
+<edge source="Наталья Соболева" target="Илья Ставицкий"/>
+<edge source="Наталья Соболева" target="Денис Шаклеин"/>
+<edge source="Наталья Соболева" target="Камиль Лотфуллин"/>
+<edge source="Наталья Соболева" target="Юлия Ренёва"/>
+<edge source="Наталья Соболева" target="Максимилиан Артемьев"/>
+<edge source="Наталья Соболева" target="Алексей Соловьёв"/>
+<edge source="Наталья Соболева" target="Лёха Гавриков"/>
+<edge source="Наталья Соболева" target="Ярослав Ребенко"/>
+<edge source="Наталья Соболева" target="Никита Нестеров"/>
+<edge source="Наталья Соболева" target="Мария Фоменко"/>
+<edge source="Наталья Соболева" target="Михаил Флоринский"/>
+<edge source="Наталья Соболева" target="Денис Тарасов"/>
+<edge source="Антон Чернявский" target="Камиль Лотфуллин"/>
+<edge source="Антон Чернявский" target="Александр Чернявский"/>
+<edge source="Антон Чернявский" target="Алексей Соловьёв"/>
+<edge source="Антон Чернявский" target="Лёха Гавриков"/>
+<edge source="Антон Чернявский" target="Николай Кондрашов"/>
+<edge source="Антон Чернявский" target="Юрий Баранов"/>
+<edge source="Антон Чернявский" target="Валерий Батурин"/>
+<edge source="Антон Чернявский" target="Михаил Флоринский"/>
+<edge source="Камиль Лотфуллин" target="Илья Ставицкий"/>
+<edge source="Камиль Лотфуллин" target="Денис Шаклеин"/>
+<edge source="Камиль Лотфуллин" target="Юлия Ренёва"/>
+<edge source="Камиль Лотфуллин" target="Максимилиан Артемьев"/>
+<edge source="Камиль Лотфуллин" target="Александр Чернявский"/>
+<edge source="Камиль Лотфуллин" target="Алексей Соловьёв"/>
+<edge source="Камиль Лотфуллин" target="Лёха Гавриков"/>
+<edge source="Камиль Лотфуллин" target="Ярослав Ребенко"/>
+<edge source="Камиль Лотфуллин" target="Никита Нестеров"/>
+<edge source="Камиль Лотфуллин" target="Юрий Баранов"/>
+<edge source="Камиль Лотфуллин" target="Валерий Батурин"/>
+<edge source="Камиль Лотфуллин" target="Михаил Флоринский"/>
+<edge source="Камиль Лотфуллин" target="Денис Тарасов"/>
+<edge source="Юлия Ренёва" target="Денис Шаклеин"/>
+<edge source="Юлия Ренёва" target="Максимилиан Артемьев"/>
+<edge source="Юлия Ренёва" target="Евгений Сидоров"/>
+<edge source="Юлия Ренёва" target="Алексей Соловьёв"/>
+<edge source="Юлия Ренёва" target="Лёха Гавриков"/>
+<edge source="Юлия Ренёва" target="Николай Кондрашов"/>
+<edge source="Юлия Ренёва" target="Никита Нестеров"/>
+<edge source="Юлия Ренёва" target="Юрий Баранов"/>
+<edge source="Юлия Ренёва" target="Валерий Батурин"/>
+<edge source="Юлия Ренёва" target="Михаил Флоринский"/>
+<edge source="Юлия Ренёва" target="Денис Тарасов"/>
+<edge source="Максимилиан Артемьев" target="Денис Шаклеин"/>
+<edge source="Максимилиан Артемьев" target="Алексей Соловьёв"/>
+<edge source="Максимилиан Артемьев" target="Лёха Гавриков"/>
+<edge source="Максимилиан Артемьев" target="Ярослав Ребенко"/>
+<edge source="Максимилиан Артемьев" target="Никита Нестеров"/>
+<edge source="Максимилиан Артемьев" target="Валерий Батурин"/>
+<edge source="Максимилиан Артемьев" target="Михаил Флоринский"/>
+<edge source="Максимилиан Артемьев" target="Денис Тарасов"/>
+<edge source="Александр Чернявский" target="Алексей Соловьёв"/>
+<edge source="Александр Чернявский" target="Лёха Гавриков"/>
+<edge source="Александр Чернявский" target="Ярослав Ребенко"/>
+<edge source="Александр Чернявский" target="Николай Кондрашов"/>
+<edge source="Александр Чернявский" target="Никита Нестеров"/>
+<edge source="Александр Чернявский" target="Юрий Баранов"/>
+<edge source="Александр Чернявский" target="Валерий Батурин"/>
+<edge source="Александр Чернявский" target="Михаил Флоринский"/>
+<edge source="Лёха Гавриков" target="Илья Ставицкий"/>
+<edge source="Лёха Гавриков" target="Денис Шаклеин"/>
+<edge source="Лёха Гавриков" target="Алексей Соловьёв"/>
+<edge source="Лёха Гавриков" target="Ярослав Ребенко"/>
+<edge source="Лёха Гавриков" target="Никита Нестеров"/>
+<edge source="Лёха Гавриков" target="Юрий Баранов"/>
+<edge source="Лёха Гавриков" target="Валерий Батурин"/>
+<edge source="Лёха Гавриков" target="Мария Фоменко"/>
+<edge source="Лёха Гавриков" target="Михаил Флоринский"/>
+<edge source="Лёха Гавриков" target="Денис Тарасов"/>
+<edge source="Ярослав Ребенко" target="Денис Шаклеин"/>
+<edge source="Ярослав Ребенко" target="Алексей Соловьёв"/>
+<edge source="Ярослав Ребенко" target="Никита Нестеров"/>
+<edge source="Ярослав Ребенко" target="Андрей Соколов"/>
+<edge source="Ярослав Ребенко" target="Олег Николаев"/>
+<edge source="Ярослав Ребенко" target="Валерий Батурин"/>
+<edge source="Ярослав Ребенко" target="Мария Фоменко"/>
+<edge source="Ярослав Ребенко" target="Михаил Флоринский"/>
+<edge source="Ярослав Ребенко" target="Денис Тарасов"/>
+<edge source="Никита Нестеров" target="Евгений Сидоров"/>
+<edge source="Никита Нестеров" target="Алексей Соловьёв"/>
+<edge source="Никита Нестеров" target="Олег Николаев"/>
+<edge source="Никита Нестеров" target="Валерий Батурин"/>
+<edge source="Никита Нестеров" target="Евгений Мещеряков"/>
+<edge source="Никита Нестеров" target="Михаил Флоринский"/>
+<edge source="Андрей Соколов" target="Соня Хегай"/>
+<edge source="Андрей Соколов" target="Михаил Флоринский"/>
+<edge source="Валерий Батурин" target="Денис Шаклеин"/>
+<edge source="Валерий Батурин" target="Алексей Соловьёв"/>
+<edge source="Валерий Батурин" target="Мария Фоменко"/>
+<edge source="Валерий Батурин" target="Евгений Мещеряков"/>
+<edge source="Валерий Батурин" target="Михаил Флоринский"/>
+<edge source="Валерий Батурин" target="Денис Тарасов"/>
+<edge source="Мария Фоменко" target="Михаил Флоринский"/>
+<edge source="Евгений Мещеряков" target="Михаил Флоринский"/>
+<edge source="Михаил Флоринский" target="Денис Шаклеин"/>
+<edge source="Михаил Флоринский" target="Алексей Соловьёв"/>
+<edge source="Михаил Флоринский" target="Николай Кондрашов"/>
+<edge source="Михаил Флоринский" target="Олег Николаев"/>
+<edge source="Михаил Флоринский" target="Денис Тарасов"/>
+<edge source="Денис Тарасов" target="Дмитрий Ларькин"/>
+<edge source="Денис Тарасов" target="Денис Шаклеин"/>
+<edge source="Денис Тарасов" target="Алексей Соловьёв"/>
+<edge source="Егор Иванов" target="Ира Гутман"/>
+<edge source="Егор Иванов" target="Женя Соловьев"/>
+<edge source="Егор Иванов" target="Дарья Асатурян"/>
+<edge source="Егор Иванов" target="Артем Похмельных"/>
+<edge source="Егор Иванов" target="Соня Хегай"/>
+<edge source="Егор Иванов" target="Алина Щукина"/>
+<edge source="Егор Иванов" target="Глеб Вон"/>
+<edge source="Егор Иванов" target="Роман Цветков"/>
+<edge source="Ира Гутман" target="Артем Похмельных"/>
+<edge source="Ира Гутман" target="Соня Хегай"/>
+<edge source="Ира Гутман" target="Алина Щукина"/>
+<edge source="Ира Гутман" target="Роман Цветков"/>
+<edge source="Женя Соловьев" target="Павел Мальков"/>
+<edge source="Женя Соловьев" target="Дима Уткин"/>
+<edge source="Дарья Асатурян" target="Лиза Филонюк"/>
+<edge source="Дарья Асатурян" target="Александр Панов"/>
+<edge source="Артем Похмельных" target="Галина Серебряная"/>
+<edge source="Артем Похмельных" target="Софья Шепелева"/>
+<edge source="Артем Похмельных" target="Анна Двуреченская"/>
+<edge source="Артем Похмельных" target="Соня Хегай"/>
+<edge source="Артем Похмельных" target="Александр Панов"/>
+<edge source="Артем Похмельных" target="Глеб Чурсин"/>
+<edge source="Артем Похмельных" target="Алина Щукина"/>
+<edge source="Артем Похмельных" target="Инесса Шуйкова"/>
+<edge source="Артем Похмельных" target="Оксана Пикалова"/>
+<edge source="Артем Похмельных" target="Алексей Смирнов"/>
+<edge source="Артем Похмельных" target="Роман Цветков"/>
+<edge source="Артем Похмельных" target="Наталья Некрасова"/>
+<edge source="Соня Хегай" target="Александр Панов"/>
+<edge source="Соня Хегай" target="Алина Щукина"/>
+<edge source="Соня Хегай" target="Роман Цветков"/>
+<edge source="Алина Щукина" target="Галина Серебряная"/>
+<edge source="Алина Щукина" target="Софья Шепелева"/>
+<edge source="Алина Щукина" target="Анна Двуреченская"/>
+<edge source="Алина Щукина" target="Александр Панов"/>
+<edge source="Алина Щукина" target="Иван Карамышев"/>
+<edge source="Алина Щукина" target="Глеб Чурсин"/>
+<edge source="Алина Щукина" target="Инесса Шуйкова"/>
+<edge source="Алина Щукина" target="Оксана Пикалова"/>
+<edge source="Алина Щукина" target="Алексей Смирнов"/>
+<edge source="Алина Щукина" target="Глеб Вон"/>
+<edge source="Алина Щукина" target="Маргарита Мущак"/>
+<edge source="Алина Щукина" target="Роман Цветков"/>
+<edge source="Алина Щукина" target="Наталья Некрасова"/>
+<edge source="Роман Цветков" target="Александр Панов"/>
+<edge source="Дмитрий Сопов" target="Лена Сопова"/>
+<edge source="Дмитрий Сопов" target="Галина Серебряная"/>
+<edge source="Дмитрий Сопов" target="Ирина Артюшина"/>
+<edge source="Галина Серебряная" target="Анастасия Петрищева"/>
+<edge source="Галина Серебряная" target="Наталья Финкель"/>
+<edge source="Галина Серебряная" target="Софья Шепелева"/>
+<edge source="Галина Серебряная" target="Анна Двуреченская"/>
+<edge source="Галина Серебряная" target="Александр Панов"/>
+<edge source="Галина Серебряная" target="Инесса Шуйкова"/>
+<edge source="Галина Серебряная" target="Оксана Пикалова"/>
+<edge source="Галина Серебряная" target="Маргарита Мущак"/>
+<edge source="Галина Серебряная" target="Наталья Некрасова"/>
+<edge source="Денис Шаклеин" target="Алексей Соловьёв"/>
+<edge source="Денис Шаклеин" target="Николай Кондрашов"/>
+<edge source="Алексей Соловьёв" target="Дмитрий Ларькин"/>
+<edge source="Алексей Соловьёв" target="Евгений Сидоров"/>
+<edge source="Алексей Соловьёв" target="Николай Кондрашов"/>
+<edge source="Алексей Соловьёв" target="Юрий Баранов"/>
+<edge source="Владислав Горбов" target="Илья Сапунов"/>
+<edge source="Владислав Горбов" target="Екатерина Алексеева"/>
+<edge source="Владислав Горбов" target="Владислав Демидкин"/>
+<edge source="Владислав Горбов" target="Александр Шмыров"/>
+<edge source="Владислав Горбов" target="Богдан Драчук"/>
+<edge source="Илья Сапунов" target="Екатерина Алексеева"/>
+<edge source="Илья Сапунов" target="Владислав Демидкин"/>
+<edge source="Илья Сапунов" target="Александр Шмыров"/>
+<edge source="Илья Сапунов" target="Богдан Драчук"/>
+<edge source="Екатерина Алексеева" target="Владислав Демидкин"/>
+<edge source="Екатерина Алексеева" target="Александр Шмыров"/>
+<edge source="Екатерина Алексеева" target="Богдан Драчук"/>
+<edge source="Владислав Демидкин" target="Александр Шмыров"/>
+<edge source="Владислав Демидкин" target="Богдан Драчук"/>
+<edge source="Александр Шмыров" target="Богдан Драчук"/>
+<edge source="Анастасия Петрищева" target="Александр Панов"/>
+<edge source="Александр Панов" target="Глеб Чурсин"/>
+<edge source="Александр Панов" target="Оксана Пикалова"/>
+<edge source="Александр Панов" target="Алексей Смирнов"/>
+<edge source="Александр Панов" target="Маргарита Мущак"/>
+<edge source="Александр Панов" target="Наталья Некрасова"/>
+<edge source="Евгений Сидоров" target="Юрий Баранов"/>
+<edge source="Николай Кондрашов" target="Юрий Баранов"/>
+<edge source="Юрий Баранов" target="Илья Ставицкий"/>
+<edge source="Наталья Финкель" target="Лиза Филонюк"/>
+<edge source="Наталья Финкель" target="Ирина Лихачева"/>
+<edge source="Лиза Филонюк" target="Ирина Лихачева"/>
+<edge source="Павел Мальков" target="Маргарита Петрусевич"/>
+<edge source="Павел Мальков" target="Илья Лыжин"/>
+<edge source="Павел Мальков" target="Дима Уткин"/>
+<edge source="Дима Уткин" target="Олег Ершов"/>
+<edge source="Дима Уткин" target="Илья Лыжин"/>
+<edge source="Дима Уткин" target="Нияз Наибулин"/>
+<edge source="Дима Уткин" target="Ваня Спит"/>
+<edge source="Дима Уткин" target="Shoky Huss"/>
+<edge source="Софья Шепелева" target="Анна Двуреченская"/>
+<edge source="Софья Шепелева" target="Глеб Чурсин"/>
+<edge source="Софья Шепелева" target="Инесса Шуйкова"/>
+<edge source="Софья Шепелева" target="Алексей Смирнов"/>
+<edge source="Софья Шепелева" target="Наталья Некрасова"/>
+<edge source="Анна Двуреченская" target="Глеб Чурсин"/>
+<edge source="Анна Двуреченская" target="Инесса Шуйкова"/>
+<edge source="Анна Двуреченская" target="Оксана Пикалова"/>
+<edge source="Анна Двуреченская" target="Наталья Некрасова"/>
+<edge source="Инесса Шуйкова" target="Алина Щеглеватых"/>
+<edge source="Инесса Шуйкова" target="Оксана Пикалова"/>
+<edge source="Инесса Шуйкова" target="Алексей Смирнов"/>
+<edge source="Инесса Шуйкова" target="Наталья Некрасова"/>
+<edge source="Оксана Пикалова" target="Маргарита Мущак"/>
+<edge source="Оксана Пикалова" target="Наталья Некрасова"/>
+<edge source="Наталья Некрасова" target="Глеб Чурсин"/>
+<edge source="Валерия Неклюдова" target="Алена Поминова"/>
+<edge source="Валерия Неклюдова" target="Анна Петрова"/>
+<edge source="Валерия Неклюдова" target="Юлия Александрович"/>
+<edge source="Валерия Неклюдова" target="Александр Еремеев"/>
+<edge source="Валерия Неклюдова" target="Владимир Тагинцев"/>
+<edge source="Валерия Неклюдова" target="Лиза Басинских"/>
+<edge source="Валерия Неклюдова" target="Никита Пастухов"/>
+<edge source="Валерия Неклюдова" target="Таня Никифорова"/>
+<edge source="Валерия Неклюдова" target="Dанил Сапронов"/>
+<edge source="Валерия Неклюдова" target="Никита Никифоров"/>
+<edge source="Валерия Неклюдова" target="Елизавета Ильина"/>
+<edge source="Валерия Неклюдова" target="Светлана Лазарева"/>
+<edge source="Алена Поминова" target="Алина Щеглеватых"/>
+<edge source="Алена Поминова" target="Александр Еремеев"/>
+<edge source="Алена Поминова" target="Владимир Тагинцев"/>
+<edge source="Алена Поминова" target="Никита Пастухов"/>
+<edge source="Алена Поминова" target="Таня Никифорова"/>
+<edge source="Алена Поминова" target="Dанил Сапронов"/>
+<edge source="Алена Поминова" target="Никита Никифоров"/>
+<edge source="Алена Поминова" target="Иван Карамышев"/>
+<edge source="Алена Поминова" target="Марина Стюфляева"/>
+<edge source="Алена Поминова" target="Алексей Смирнов"/>
+<edge source="Анна Петрова" target="Юлия Александрович"/>
+<edge source="Анна Петрова" target="Александр Еремеев"/>
+<edge source="Анна Петрова" target="Владимир Тагинцев"/>
+<edge source="Анна Петрова" target="Лиза Басинских"/>
+<edge source="Анна Петрова" target="Никита Пастухов"/>
+<edge source="Анна Петрова" target="Таня Никифорова"/>
+<edge source="Анна Петрова" target="Dанил Сапронов"/>
+<edge source="Анна Петрова" target="Никита Никифоров"/>
+<edge source="Анна Петрова" target="Иван Карамышев"/>
+<edge source="Анна Петрова" target="Марина Стюфляева"/>
+<edge source="Анна Петрова" target="Дмитрий Ельников"/>
+<edge source="Анна Петрова" target="Елизавета Ильина"/>
+<edge source="Анна Петрова" target="Женёк Филиппов"/>
+<edge source="Анна Петрова" target="Светлана Лазарева"/>
+<edge source="Юлия Александрович" target="Александр Еремеев"/>
+<edge source="Юлия Александрович" target="Лиза Басинских"/>
+<edge source="Юлия Александрович" target="Никита Пастухов"/>
+<edge source="Юлия Александрович" target="Таня Никифорова"/>
+<edge source="Юлия Александрович" target="Dанил Сапронов"/>
+<edge source="Юлия Александрович" target="Алина Манюхина"/>
+<edge source="Юлия Александрович" target="Никита Никифоров"/>
+<edge source="Юлия Александрович" target="Иван Карамышев"/>
+<edge source="Юлия Александрович" target="Марина Стюфляева"/>
+<edge source="Юлия Александрович" target="Дмитрий Ельников"/>
+<edge source="Юлия Александрович" target="Елизавета Ильина"/>
+<edge source="Юлия Александрович" target="Женёк Филиппов"/>
+<edge source="Юлия Александрович" target="Светлана Лазарева"/>
+<edge source="Александр Еремеев" target="Владимир Тагинцев"/>
+<edge source="Александр Еремеев" target="Лиза Басинских"/>
+<edge source="Александр Еремеев" target="Никита Пастухов"/>
+<edge source="Александр Еремеев" target="Таня Никифорова"/>
+<edge source="Александр Еремеев" target="Dанил Сапронов"/>
+<edge source="Александр Еремеев" target="Никита Никифоров"/>
+<edge source="Александр Еремеев" target="Дмитрий Ельников"/>
+<edge source="Александр Еремеев" target="Елизавета Ильина"/>
+<edge source="Александр Еремеев" target="Светлана Лазарева"/>
+<edge source="Александр Еремеев" target="Марина Стюфляева"/>
+<edge source="Владимир Тагинцев" target="Лиза Басинских"/>
+<edge source="Владимир Тагинцев" target="Никита Пастухов"/>
+<edge source="Владимир Тагинцев" target="Таня Никифорова"/>
+<edge source="Владимир Тагинцев" target="Dанил Сапронов"/>
+<edge source="Владимир Тагинцев" target="Никита Никифоров"/>
+<edge source="Владимир Тагинцев" target="Иван Карамышев"/>
+<edge source="Владимир Тагинцев" target="Дмитрий Ельников"/>
+<edge source="Владимир Тагинцев" target="Елизавета Ильина"/>
+<edge source="Владимир Тагинцев" target="Светлана Лазарева"/>
+<edge source="Лиза Басинских" target="Никита Пастухов"/>
+<edge source="Лиза Басинских" target="Таня Никифорова"/>
+<edge source="Лиза Басинских" target="Dанил Сапронов"/>
+<edge source="Лиза Басинских" target="Иван Карамышев"/>
+<edge source="Лиза Басинских" target="Марина Стюфляева"/>
+<edge source="Лиза Басинских" target="Елизавета Ильина"/>
+<edge source="Лиза Басинских" target="Анастасия Васильева"/>
+<edge source="Лиза Басинских" target="Светлана Лазарева"/>
+<edge source="Никита Пастухов" target="Илья Достойнов"/>
+<edge source="Никита Пастухов" target="Таня Никифорова"/>
+<edge source="Никита Пастухов" target="Dанил Сапронов"/>
+<edge source="Никита Пастухов" target="Алина Манюхина"/>
+<edge source="Никита Пастухов" target="Никита Никифоров"/>
+<edge source="Никита Пастухов" target="Иван Карамышев"/>
+<edge source="Никита Пастухов" target="Марина Стюфляева"/>
+<edge source="Никита Пастухов" target="Дмитрий Ельников"/>
+<edge source="Никита Пастухов" target="Алексей Егоров"/>
+<edge source="Никита Пастухов" target="Женёк Филиппов"/>
+<edge source="Никита Пастухов" target="Светлана Лазарева"/>
+<edge source="Таня Никифорова" target="Dанил Сапронов"/>
+<edge source="Таня Никифорова" target="Никита Никифоров"/>
+<edge source="Таня Никифорова" target="Иван Карамышев"/>
+<edge source="Таня Никифорова" target="Марина Стюфляева"/>
+<edge source="Таня Никифорова" target="Светлана Лазарева"/>
+<edge source="Таня Никифорова" target="Карен Мелконян"/>
+<edge source="Dанил Сапронов" target="Никита Никифоров"/>
+<edge source="Dанил Сапронов" target="Иван Карамышев"/>
+<edge source="Dанил Сапронов" target="Марина Стюфляева"/>
+<edge source="Dанил Сапронов" target="Елизавета Ильина"/>
+<edge source="Dанил Сапронов" target="Анастасия Васильева"/>
+<edge source="Dанил Сапронов" target="Светлана Лазарева"/>
+<edge source="Никита Никифоров" target="Иван Карамышев"/>
+<edge source="Никита Никифоров" target="Марина Стюфляева"/>
+<edge source="Никита Никифоров" target="Елизавета Ильина"/>
+<edge source="Никита Никифоров" target="Светлана Лазарева"/>
+<edge source="Елизавета Ильина" target="Иван Карамышев"/>
+<edge source="Елизавета Ильина" target="Женёк Филиппов"/>
+<edge source="Елизавета Ильина" target="Светлана Лазарева"/>
+<edge source="Светлана Лазарева" target="Алина Манюхина"/>
+<edge source="Светлана Лазарева" target="Иван Карамышев"/>
+<edge source="Светлана Лазарева" target="Марина Стюфляева"/>
+<edge source="Светлана Лазарева" target="Анастасия Васильева"/>
+<edge source="Светлана Лазарева" target="Женёк Филиппов"/>
+<edge source="Глеб Чурсин" target="Алексей Смирнов"/>
+<edge source="Глеб Чурсин" target="Ваня Спит"/>
+<edge source="Илья Лыжин" target="Эдуард Пахомов"/>
+<edge source="Иван Карамышев" target="Илья Достойнов"/>
+<edge source="Иван Карамышев" target="Марина Стюфляева"/>
+<edge source="Иван Карамышев" target="Дмитрий Ельников"/>
+<edge source="Иван Карамышев" target="Алексей Егоров"/>
+<edge source="Иван Карамышев" target="Женёк Филиппов"/>
+<edge source="Марина Стюфляева" target="Анастасия Васильева"/>
+<edge source="Марина Стюфляева" target="Женёк Филиппов"/>
+<edge source="Дмитрий Ельников" target="Женёк Филиппов"/>
+<edge source="Дмитрий Ельников" target="Карен Мелконян"/>
+<edge source="Женёк Филиппов" target="Анастасия Васильева"/>
+<edge source="Женёк Филиппов" target="Карен Мелконян"/>
+<edge source="Анастасия Васильева" target="Алексей Егоров"/>
+<edge source="Нияз Наибулин" target="Ваня Спит"/>
+<edge source="Нияз Наибулин" target="Shoky Huss"/>
+<edge source="Ваня Спит" target="Shoky Huss"/>
+</graph></graphml>

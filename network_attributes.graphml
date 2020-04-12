@@ -1,0 +1,1571 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="partition_edge_betweenness" attr.type="long" for="node" id="d10"/>
+<key attr.name="partition_mcl" attr.type="int" for="node" id="d9"/>
+<key attr.name="partition_louvain" attr.type="long" for="node" id="d8"/>
+<key attr.name="in_largest_clique" attr.type="long" for="node" id="d7"/>
+<key attr.name="pagerank" attr.type="double" for="node" id="d6"/>
+<key attr.name="betweenness_centrality" attr.type="double" for="node" id="d5"/>
+<key attr.name="closeness_centrality" attr.type="double" for="node" id="d4"/>
+<key attr.name="degree_centrality" attr.type="double" for="node" id="d3"/>
+<key attr.name="sex" attr.type="string" for="node" id="d2"/>
+<key attr.name="city" attr.type="string" for="node" id="d1"/>
+<key attr.name="directed" attr.type="boolean" for="graph" id="d0"/>
+<graph edgedefault="undirected"><data key="d0">False</data>
+<node id="Сергей Горбачёв">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.21739130434782608</data>
+  <data key="d4">0.2576644370122631</data>
+  <data key="d5">0.06637821663456636</data>
+  <data key="d6">0.014564047021822861</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Антон Наумов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.22826086956521738</data>
+  <data key="d4">0.21786261340874277</data>
+  <data key="d5">0.0021492935932487496</data>
+  <data key="d6">0.015015983964854176</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Катя Минеева">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.19565217391304346</data>
+  <data key="d4">0.2560232622542232</data>
+  <data key="d5">0.051584572823704496</data>
+  <data key="d6">0.01327913937106376</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Евгений Правда">
+  <data key="d1">Vancouver</data>
+  <data key="d2">male</data>
+  <data key="d3">0.19565217391304346</data>
+  <data key="d4">0.21552628511481525</data>
+  <data key="d5">0.009970393076745144</data>
+  <data key="d6">0.01324758231424455</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Екатерина Глазкова">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.18478260869565216</data>
+  <data key="d4">0.21552628511481525</data>
+  <data key="d5">0.0008910624172964807</data>
+  <data key="d6">0.012343882333676405</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Никита Ширин">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+  <data key="d3">0.17391304347826086</data>
+  <data key="d4">0.25360032917295294</data>
+  <data key="d5">0.04153136026841619</data>
+  <data key="d6">0.0120935725947408</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Наталья Соболева">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.18478260869565216</data>
+  <data key="d4">0.21552628511481525</data>
+  <data key="d5">0.006785932763733233</data>
+  <data key="d6">0.012617218884766681</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Антон Чернявский">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.14130434782608695</data>
+  <data key="d4">0.21323953407911428</data>
+  <data key="d5">0.0021596365052590264</data>
+  <data key="d6">0.00989036107642409</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Камиль Лотфуллин">
+  <data key="d1">Казань</data>
+  <data key="d2">male</data>
+  <data key="d3">0.21739130434782608</data>
+  <data key="d4">0.2172737955346651</data>
+  <data key="d5">0.010064398658366787</data>
+  <data key="d6">0.014547469896835311</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Юлия Ренёва">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.18478260869565216</data>
+  <data key="d4">0.21552628511481525</data>
+  <data key="d5">0.005134115243593475</data>
+  <data key="d6">0.012643276326203266</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Максимилиан Артемьев">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.16304347826086957</data>
+  <data key="d4">0.2143768115942029</data>
+  <data key="d5">0.0002266506387385508</data>
+  <data key="d6">0.01100593593454621</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Александр Чернявский">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.17391304347826086</data>
+  <data key="d4">0.21495001162520344</data>
+  <data key="d5">0.003647161917468992</data>
+  <data key="d6">0.011805559734346903</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Лёха Гавриков">
+  <data key="d1">Хабаровск</data>
+  <data key="d2">male</data>
+  <data key="d3">0.2391304347826087</data>
+  <data key="d4">0.2184546313799622</data>
+  <data key="d5">0.01112380170952808</data>
+  <data key="d6">0.01586571858943012</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Ярослав Ребенко">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.21739130434782608</data>
+  <data key="d4">0.2576644370122631</data>
+  <data key="d5">0.06974880209909386</data>
+  <data key="d6">0.01462513207770844</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Никита Нестеров">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.19565217391304346</data>
+  <data key="d4">0.21610565684899485</data>
+  <data key="d5">0.008190599418393493</data>
+  <data key="d6">0.013377858596178427</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Андрей Соколов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.06521739130434782</data>
+  <data key="d4">0.2944736422997293</data>
+  <data key="d5">0.38795986622073575</data>
+  <data key="d6">0.006004154916216518</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Валерий Батурин">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.21739130434782608</data>
+  <data key="d4">0.2172737955346651</data>
+  <data key="d5">0.0020010456348984896</data>
+  <data key="d6">0.014381717019056649</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Мария Фоменко">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.08695652173913043</data>
+  <data key="d4">0.20935235507246377</data>
+  <data key="d5">1.4930721452460582e-05</data>
+  <data key="d6">0.00654903521104924</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Евгений Мещеряков">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.06521739130434782</data>
+  <data key="d4">0.20772946859903382</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.005340676228247959</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Михаил Флоринский">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+  <data key="d3">0.2608695652173913</data>
+  <data key="d4">0.26101072840203277</data>
+  <data key="d5">0.10575691497275355</data>
+  <data key="d6">0.01738575779329743</data>
+  <data key="d7">1</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Денис Тарасов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.16304347826086957</data>
+  <data key="d4">0.2143768115942029</data>
+  <data key="d5">0.012182810127902817</data>
+  <data key="d6">0.011584753385272087</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Егор Иванов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.08695652173913043</data>
+  <data key="d4">0.30683703949551944</data>
+  <data key="d5">0.12348149607466374</data>
+  <data key="d6">0.014220153903529544</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Ира Гутман">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.05434782608695652</data>
+  <data key="d4">0.29233201581027674</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.00814735609719645</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Женя Соловьев">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.24435046914232852</data>
+  <data key="d5">0.08943357367270413</data>
+  <data key="d6">0.008522492863555383</data>
+  <data key="d7">0</data>
+  <data key="d8">2</data>
+  <data key="d9">77</data>
+  <data key="d10">1</data>
+</node>
+<node id="Дарья Асатурян">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.24812130971551263</data>
+  <data key="d5">0.02213908417324564</data>
+  <data key="d6">0.006861473069582536</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">50</data>
+  <data key="d10">1</data>
+</node>
+<node id="Артем Похмельных">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+  <data key="d3">0.15217391304347827</data>
+  <data key="d4">0.3177521910981268</data>
+  <data key="d5">0.0609423972912803</data>
+  <data key="d6">0.019917535128573294</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Соня Хегай">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.07608695652173914</data>
+  <data key="d4">0.32947255880256593</data>
+  <data key="d5">0.3952904238618524</data>
+  <data key="d6">0.01042163173059508</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Алина Щукина">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.18478260869565216</data>
+  <data key="d4">0.34651424287856075</data>
+  <data key="d5">0.3672722524294143</data>
+  <data key="d6">0.024073123882338066</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Глеб Вон">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.021739130434782608</data>
+  <data key="d4">0.26186092621441726</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.004327664625541116</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Роман Цветков">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.06521739130434782</data>
+  <data key="d4">0.2944736422997293</data>
+  <data key="d5">0.00040270288717493677</data>
+  <data key="d6">0.009491846708972511</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Дмитрий Сопов">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.21495001162520344</data>
+  <data key="d5">0.040372670807453416</data>
+  <data key="d6">0.011192316761841997</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">30</data>
+  <data key="d10">1</data>
+</node>
+<node id="Лена Сопова">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.010869565217391304</data>
+  <data key="d4">0.17514445391683242</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.004785558099322067</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Галина Серебряная">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+  <data key="d3">0.13043478260869565</data>
+  <data key="d4">0.274373052381659</data>
+  <data key="d5">0.0990398835119333</data>
+  <data key="d6">0.02042070243614738</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Ирина Артюшина">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+  <data key="d3">0.010869565217391304</data>
+  <data key="d4">0.17514445391683242</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.004785558099322067</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Денис Шаклеин">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.15217391304347827</data>
+  <data key="d4">0.21380666049953748</data>
+  <data key="d5">0.0005592802642492082</data>
+  <data key="d6">0.010461734749251016</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Алексей Соловьёв">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.19565217391304346</data>
+  <data key="d4">0.21610565684899485</data>
+  <data key="d5">0.013234495744470892</data>
+  <data key="d6">0.013896221364773923</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Владислав Горбов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.05434782608695652</data>
+  <data key="d4">0.05434782608695652</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.010752688172043012</data>
+  <data key="d7">0</data>
+  <data key="d8">3</data>
+  <data key="d9">36</data>
+  <data key="d10">2</data>
+</node>
+<node id="Илья Сапунов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.05434782608695652</data>
+  <data key="d4">0.05434782608695652</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.010752688172043012</data>
+  <data key="d7">0</data>
+  <data key="d8">3</data>
+  <data key="d9">36</data>
+  <data key="d10">2</data>
+</node>
+<node id="Екатерина Алексеева">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.05434782608695652</data>
+  <data key="d4">0.05434782608695652</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.010752688172043012</data>
+  <data key="d7">0</data>
+  <data key="d8">3</data>
+  <data key="d9">36</data>
+  <data key="d10">2</data>
+</node>
+<node id="Владислав Демидкин">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.05434782608695652</data>
+  <data key="d4">0.05434782608695652</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.010752688172043012</data>
+  <data key="d7">0</data>
+  <data key="d8">3</data>
+  <data key="d9">36</data>
+  <data key="d10">2</data>
+</node>
+<node id="Александр Шмыров">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.05434782608695652</data>
+  <data key="d4">0.05434782608695652</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.010752688172043012</data>
+  <data key="d7">0</data>
+  <data key="d8">3</data>
+  <data key="d9">36</data>
+  <data key="d10">2</data>
+</node>
+<node id="Богдан Драчук">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.05434782608695652</data>
+  <data key="d4">0.05434782608695652</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.010752688172043012</data>
+  <data key="d7">0</data>
+  <data key="d8">3</data>
+  <data key="d9">36</data>
+  <data key="d10">2</data>
+</node>
+<node id="Олег Николаев">
+  <data key="d1">Харьков</data>
+  <data key="d2">male</data>
+  <data key="d3">0.05434782608695652</data>
+  <data key="d4">0.2071940833706858</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0047513580501906405</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Дмитрий Ларькин">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.021739130434782608</data>
+  <data key="d4">0.17746424800844612</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.002925528495030659</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Анастасия Петрищева">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.021739130434782608</data>
+  <data key="d4">0.24141532837185012</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.004363435853941719</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Александр Панов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.13043478260869565</data>
+  <data key="d4">0.3115942028985507</data>
+  <data key="d5">0.0748757366314749</data>
+  <data key="d6">0.018409856802018367</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Евгений Сидоров">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.05434782608695652</data>
+  <data key="d4">0.18065461651196874</data>
+  <data key="d5">7.510977031711171e-05</data>
+  <data key="d6">0.004878571022395739</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Николай Кондрашов">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+  <data key="d3">0.08695652173913043</data>
+  <data key="d4">0.2104484407011154</data>
+  <data key="d5">0.000706095416830708</data>
+  <data key="d6">0.00677152786423154</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Юрий Баранов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.10869565217391304</data>
+  <data key="d4">0.18229320713792765</data>
+  <data key="d5">0.001301379779640649</data>
+  <data key="d6">0.008471970434559368</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Наталья Финкель">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.21552628511481525</data>
+  <data key="d5">0.018271316330322553</data>
+  <data key="d6">0.008200094225554677</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">50</data>
+  <data key="d10">1</data>
+</node>
+<node id="Лиза Филонюк">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.2024969882816778</data>
+  <data key="d5">0.006403525735823873</data>
+  <data key="d6">0.008588073402370739</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">50</data>
+  <data key="d10">1</data>
+</node>
+<node id="Ирина Лихачева">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+  <data key="d3">0.021739130434782608</data>
+  <data key="d4">0.17944487577639753</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.006369928511324327</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">50</data>
+  <data key="d10">1</data>
+</node>
+<node id="Павел Мальков">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.043478260869565216</data>
+  <data key="d4">0.19997836902444302</data>
+  <data key="d5">0.03335118987292901</data>
+  <data key="d6">0.013497224269943396</data>
+  <data key="d7">0</data>
+  <data key="d8">2</data>
+  <data key="d9">52</data>
+  <data key="d10">1</data>
+</node>
+<node id="Дима Уткин">
+  <data key="d1">Воронеж</data>
+  <data key="d2">male</data>
+  <data key="d3">0.07608695652173914</data>
+  <data key="d4">0.20666145076561976</data>
+  <data key="d5">0.05482396313141652</data>
+  <data key="d6">0.02082932662984571</data>
+  <data key="d7">0</data>
+  <data key="d8">2</data>
+  <data key="d9">53</data>
+  <data key="d10">1</data>
+</node>
+<node id="Софья Шепелева">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+  <data key="d3">0.08695652173913043</data>
+  <data key="d4">0.2753126861226921</data>
+  <data key="d5">0.0027879575016278666</data>
+  <data key="d6">0.011789592282908202</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Анна Двуреченская">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+  <data key="d3">0.08695652173913043</data>
+  <data key="d4">0.2725128960943257</data>
+  <data key="d5">0.0022992535414895657</data>
+  <data key="d6">0.011833703471481667</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Инесса Шуйкова">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+  <data key="d3">0.09782608695652173</data>
+  <data key="d4">0.2697694776772688</data>
+  <data key="d5">0.016188240910612696</data>
+  <data key="d6">0.01333325894317431</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Оксана Пикалова">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+  <data key="d3">0.08695652173913043</data>
+  <data key="d4">0.2670807453416149</data>
+  <data key="d5">0.0005583615832063036</data>
+  <data key="d6">0.01198949891094038</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Маргарита Мущак">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+  <data key="d3">0.043478260869565216</data>
+  <data key="d4">0.2627166808752487</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.006841146179075229</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Наталья Некрасова">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.09782608695652173</data>
+  <data key="d4">0.274373052381659</data>
+  <data key="d5">0.002568954509948298</data>
+  <data key="d6">0.013152933386049566</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Валерия Неклюдова">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+  <data key="d3">0.13043478260869565</data>
+  <data key="d4">0.20666145076561976</data>
+  <data key="d5">0.000525664811379097</data>
+  <data key="d6">0.011476372242109893</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Алена Поминова">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+  <data key="d3">0.11956521739130435</data>
+  <data key="d4">0.24584496742454462</data>
+  <data key="d5">0.034777554186290215</data>
+  <data key="d6">0.011830516599959378</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Анна Петрова">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.16304347826086957</data>
+  <data key="d4">0.23644501278772379</data>
+  <data key="d5">0.002270001841531738</data>
+  <data key="d6">0.014066226788670227</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Юлия Александрович">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.16304347826086957</data>
+  <data key="d4">0.23644501278772379</data>
+  <data key="d5">0.008087295314104714</data>
+  <data key="d6">0.014392100859397149</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Александр Еремеев">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+  <data key="d3">0.15217391304347827</data>
+  <data key="d4">0.20772946859903382</data>
+  <data key="d5">0.0010823200264194052</data>
+  <data key="d6">0.013226121979495638</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Владимир Тагинцев">
+  <data key="d1">Воронеж</data>
+  <data key="d2">male</data>
+  <data key="d3">0.14130434782608695</data>
+  <data key="d4">0.23644501278772379</data>
+  <data key="d5">0.00240745927712582</data>
+  <data key="d6">0.01243504766906126</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Лиза Басинских">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+  <data key="d3">0.14130434782608695</data>
+  <data key="d4">0.23506229341469617</data>
+  <data key="d5">0.0046267806734658495</data>
+  <data key="d6">0.012422149131925382</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Никита Пастухов">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+  <data key="d3">0.19565217391304346</data>
+  <data key="d4">0.2399740428293316</data>
+  <data key="d5">0.015169946961973754</data>
+  <data key="d6">0.017895418722651733</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Таня Никифорова">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.15217391304347827</data>
+  <data key="d4">0.2371424907015519</data>
+  <data key="d5">0.01016346276294297</data>
+  <data key="d6">0.013527416345340784</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Dанил Сапронов">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+  <data key="d3">0.16304347826086957</data>
+  <data key="d4">0.2378440957036275</data>
+  <data key="d5">0.005885795985276192</data>
+  <data key="d6">0.014153767231165064</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Никита Никифоров">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+  <data key="d3">0.14130434782608695</data>
+  <data key="d4">0.23644501278772379</data>
+  <data key="d5">0.00203926294619657</data>
+  <data key="d6">0.012348747240649027</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Елизавета Ильина">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.11956521739130435</data>
+  <data key="d4">0.23369565217391305</data>
+  <data key="d5">0.0018008367760933813</data>
+  <data key="d6">0.010635429044386555</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Светлана Лазарева">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+  <data key="d3">0.17391304347826086</data>
+  <data key="d4">0.2371424907015519</data>
+  <data key="d5">0.011085952971147464</data>
+  <data key="d6">0.015278889194747503</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Глеб Чурсин">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+  <data key="d3">0.08695652173913043</data>
+  <data key="d4">0.2781706032796751</data>
+  <data key="d5">0.07431101968772871</data>
+  <data key="d6">0.012543904598686324</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Алексей Смирнов">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+  <data key="d3">0.07608695652173914</data>
+  <data key="d4">0.28108847674065063</data>
+  <data key="d5">0.03494790259473029</data>
+  <data key="d6">0.01008922949737009</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">1</data>
+</node>
+<node id="Илья Ставицкий">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+  <data key="d3">0.043478260869565216</data>
+  <data key="d4">0.17944487577639753</data>
+  <data key="d5">4.777830864787386e-05</data>
+  <data key="d6">0.004195033781718128</data>
+  <data key="d7">0</data>
+  <data key="d8">0</data>
+  <data key="d9">19</data>
+  <data key="d10">0</data>
+</node>
+<node id="Маргарита Петрусевич">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.010869565217391304</data>
+  <data key="d4">0.16507454691545398</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.004481648822037274</data>
+  <data key="d7">0</data>
+  <data key="d8">2</data>
+  <data key="d9">77</data>
+  <data key="d10">1</data>
+</node>
+<node id="Илья Лыжин">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.17104532839962996</data>
+  <data key="d5">0.020305781175346392</data>
+  <data key="d6">0.01104314188960986</data>
+  <data key="d7">0</data>
+  <data key="d8">2</data>
+  <data key="d9">77</data>
+  <data key="d10">1</data>
+</node>
+<node id="Алина Щеглеватых">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+  <data key="d3">0.021739130434782608</data>
+  <data key="d4">0.23034757692786847</data>
+  <data key="d5">0.0015221468802271833</data>
+  <data key="d6">0.0037863528364646395</data>
+  <data key="d7">0</data>
+  <data key="d8">1</data>
+  <data key="d9">27</data>
+  <data key="d10">3</data>
+</node>
+<node id="Иван Карамышев">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.18478260869565216</data>
+  <data key="d4">0.2933989209774675</data>
+  <data key="d5">0.2863804437171505</data>
+  <data key="d6">0.017136075427592323</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Марина Стюфляева">
+  <data key="d1">Липецк</data>
+  <data key="d2">female</data>
+  <data key="d3">0.14130434782608695</data>
+  <data key="d4">0.23644501278772379</data>
+  <data key="d5">0.004970378930100558</data>
+  <data key="d6">0.012577457415062764</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Дмитрий Ельников">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+  <data key="d3">0.08695652173913043</data>
+  <data key="d4">0.2316752286680867</data>
+  <data key="d5">0.006356518670277565</data>
+  <data key="d6">0.008636715052422587</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Женёк Филиппов">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+  <data key="d3">0.10869565217391304</data>
+  <data key="d4">0.2330182734719597</data>
+  <data key="d5">0.009146615978914115</data>
+  <data key="d6">0.010489965837724768</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Алина Манюхина">
+  <data key="d1">Москва</data>
+  <data key="d2">female</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.1932483277591973</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0040849532788686605</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Илья Достойнов">
+  <data key="d1">Луганское</data>
+  <data key="d2">male</data>
+  <data key="d3">0.021739130434782608</data>
+  <data key="d4">0.22645437844458055</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0033146086507116687</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Олег Ершов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.010869565217391304</data>
+  <data key="d4">0.1696019079068061</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.004142722437408477</data>
+  <data key="d7">0</data>
+  <data key="d8">2</data>
+  <data key="d9">53</data>
+  <data key="d10">1</data>
+</node>
+<node id="Эдуард Пахомов">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.010869565217391304</data>
+  <data key="d4">0.14484919702311008</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.004742349940341437</data>
+  <data key="d7">0</data>
+  <data key="d8">2</data>
+  <data key="d9">53</data>
+  <data key="d10">1</data>
+</node>
+<node id="Анастасия Васильева">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">female</data>
+  <data key="d3">0.06521739130434782</data>
+  <data key="d4">0.1946520686388041</data>
+  <data key="d5">0.0004920028211953677</data>
+  <data key="d6">0.006971306649746025</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Алексей Егоров">
+  <data key="d1">Липецк</data>
+  <data key="d2">male</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.22773740608449317</data>
+  <data key="d5">0.00250750801993038</data>
+  <data key="d6">0.004302124595250461</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Карен Мелконян">
+  <data key="d1">Москва</data>
+  <data key="d2">male</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.19232369461202414</data>
+  <data key="d5">6.82547266398198e-05</data>
+  <data key="d6">0.004243254597315129</data>
+  <data key="d7">0</data>
+  <data key="d8">4</data>
+  <data key="d9">67</data>
+  <data key="d10">3</data>
+</node>
+<node id="Нияз Наибулин">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.18609098228663445</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.008901404536623116</data>
+  <data key="d7">0</data>
+  <data key="d8">2</data>
+  <data key="d9">53</data>
+  <data key="d10">1</data>
+</node>
+<node id="Ваня Спит">
+  <data key="d1">&lt;UNKNOWN&gt;</data>
+  <data key="d2">male</data>
+  <data key="d3">0.043478260869565216</data>
+  <data key="d4">0.22581827063996093</data>
+  <data key="d5">0.05788287799157364</data>
+  <data key="d6">0.01052078201104511</data>
+  <data key="d7">0</data>
+  <data key="d8">2</data>
+  <data key="d9">53</data>
+  <data key="d10">1</data>
+</node>
+<node id="Shoky Huss">
+  <data key="d1">Cairo</data>
+  <data key="d2">male</data>
+  <data key="d3">0.03260869565217391</data>
+  <data key="d4">0.18609098228663445</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.008901404536623116</data>
+  <data key="d7">0</data>
+  <data key="d8">2</data>
+  <data key="d9">53</data>
+  <data key="d10">1</data>
+</node>
+<edge source="Сергей Горбачёв" target="Антон Наумов"/>
+<edge source="Сергей Горбачёв" target="Катя Минеева"/>
+<edge source="Сергей Горбачёв" target="Евгений Правда"/>
+<edge source="Сергей Горбачёв" target="Екатерина Глазкова"/>
+<edge source="Сергей Горбачёв" target="Никита Ширин"/>
+<edge source="Сергей Горбачёв" target="Наталья Соболева"/>
+<edge source="Сергей Горбачёв" target="Антон Чернявский"/>
+<edge source="Сергей Горбачёв" target="Камиль Лотфуллин"/>
+<edge source="Сергей Горбачёв" target="Юлия Ренёва"/>
+<edge source="Сергей Горбачёв" target="Максимилиан Артемьев"/>
+<edge source="Сергей Горбачёв" target="Александр Чернявский"/>
+<edge source="Сергей Горбачёв" target="Лёха Гавриков"/>
+<edge source="Сергей Горбачёв" target="Ярослав Ребенко"/>
+<edge source="Сергей Горбачёв" target="Никита Нестеров"/>
+<edge source="Сергей Горбачёв" target="Андрей Соколов"/>
+<edge source="Сергей Горбачёв" target="Валерий Батурин"/>
+<edge source="Сергей Горбачёв" target="Мария Фоменко"/>
+<edge source="Сергей Горбачёв" target="Евгений Мещеряков"/>
+<edge source="Сергей Горбачёв" target="Михаил Флоринский"/>
+<edge source="Сергей Горбачёв" target="Денис Тарасов"/>
+<edge source="Антон Наумов" target="Катя Минеева"/>
+<edge source="Антон Наумов" target="Евгений Правда"/>
+<edge source="Антон Наумов" target="Екатерина Глазкова"/>
+<edge source="Антон Наумов" target="Никита Ширин"/>
+<edge source="Антон Наумов" target="Наталья Соболева"/>
+<edge source="Антон Наумов" target="Денис Шаклеин"/>
+<edge source="Антон Наумов" target="Антон Чернявский"/>
+<edge source="Антон Наумов" target="Камиль Лотфуллин"/>
+<edge source="Антон Наумов" target="Юлия Ренёва"/>
+<edge source="Антон Наумов" target="Максимилиан Артемьев"/>
+<edge source="Антон Наумов" target="Александр Чернявский"/>
+<edge source="Антон Наумов" target="Алексей Соловьёв"/>
+<edge source="Антон Наумов" target="Лёха Гавриков"/>
+<edge source="Антон Наумов" target="Ярослав Ребенко"/>
+<edge source="Антон Наумов" target="Никита Нестеров"/>
+<edge source="Антон Наумов" target="Валерий Батурин"/>
+<edge source="Антон Наумов" target="Мария Фоменко"/>
+<edge source="Антон Наумов" target="Евгений Мещеряков"/>
+<edge source="Антон Наумов" target="Михаил Флоринский"/>
+<edge source="Антон Наумов" target="Денис Тарасов"/>
+<edge source="Катя Минеева" target="Евгений Правда"/>
+<edge source="Катя Минеева" target="Екатерина Глазкова"/>
+<edge source="Катя Минеева" target="Никита Ширин"/>
+<edge source="Катя Минеева" target="Наталья Соболева"/>
+<edge source="Катя Минеева" target="Антон Чернявский"/>
+<edge source="Катя Минеева" target="Камиль Лотфуллин"/>
+<edge source="Катя Минеева" target="Максимилиан Артемьев"/>
+<edge source="Катя Минеева" target="Александр Чернявский"/>
+<edge source="Катя Минеева" target="Лёха Гавриков"/>
+<edge source="Катя Минеева" target="Ярослав Ребенко"/>
+<edge source="Катя Минеева" target="Никита Нестеров"/>
+<edge source="Катя Минеева" target="Андрей Соколов"/>
+<edge source="Катя Минеева" target="Олег Николаев"/>
+<edge source="Катя Минеева" target="Валерий Батурин"/>
+<edge source="Катя Минеева" target="Михаил Флоринский"/>
+<edge source="Катя Минеева" target="Денис Тарасов"/>
+<edge source="Евгений Правда" target="Екатерина Глазкова"/>
+<edge source="Евгений Правда" target="Никита Ширин"/>
+<edge source="Евгений Правда" target="Денис Шаклеин"/>
+<edge source="Евгений Правда" target="Антон Чернявский"/>
+<edge source="Евгений Правда" target="Камиль Лотфуллин"/>
+<edge source="Евгений Правда" target="Юлия Ренёва"/>
+<edge source="Евгений Правда" target="Александр Чернявский"/>
+<edge source="Евгений Правда" target="Евгений Сидоров"/>
+<edge source="Евгений Правда" target="Лёха Гавриков"/>
+<edge source="Евгений Правда" target="Ярослав Ребенко"/>
+<edge source="Евгений Правда" target="Николай Кондрашов"/>
+<edge source="Евгений Правда" target="Никита Нестеров"/>
+<edge source="Евгений Правда" target="Юрий Баранов"/>
+<edge source="Евгений Правда" target="Валерий Батурин"/>
+<edge source="Евгений Правда" target="Михаил Флоринский"/>
+<edge source="Екатерина Глазкова" target="Никита Ширин"/>
+<edge source="Екатерина Глазкова" target="Наталья Соболева"/>
+<edge source="Екатерина Глазкова" target="Денис Шаклеин"/>
+<edge source="Екатерина Глазкова" target="Антон Чернявский"/>
+<edge source="Екатерина Глазкова" target="Юлия Ренёва"/>
+<edge source="Екатерина Глазкова" target="Максимилиан Артемьев"/>
+<edge source="Екатерина Глазкова" target="Александр Чернявский"/>
+<edge source="Екатерина Глазкова" target="Лёха Гавриков"/>
+<edge source="Екатерина Глазкова" target="Ярослав Ребенко"/>
+<edge source="Екатерина Глазкова" target="Валерий Батурин"/>
+<edge source="Екатерина Глазкова" target="Мария Фоменко"/>
+<edge source="Екатерина Глазкова" target="Михаил Флоринский"/>
+<edge source="Екатерина Глазкова" target="Денис Тарасов"/>
+<edge source="Никита Ширин" target="Наталья Соболева"/>
+<edge source="Никита Ширин" target="Камиль Лотфуллин"/>
+<edge source="Никита Ширин" target="Александр Чернявский"/>
+<edge source="Никита Ширин" target="Лёха Гавриков"/>
+<edge source="Никита Ширин" target="Ярослав Ребенко"/>
+<edge source="Никита Ширин" target="Никита Нестеров"/>
+<edge source="Никита Ширин" target="Андрей Соколов"/>
+<edge source="Никита Ширин" target="Олег Николаев"/>
+<edge source="Никита Ширин" target="Валерий Батурин"/>
+<edge source="Никита Ширин" target="Евгений Мещеряков"/>
+<edge source="Никита Ширин" target="Михаил Флоринский"/>
+<edge source="Наталья Соболева" target="Илья Ставицкий"/>
+<edge source="Наталья Соболева" target="Денис Шаклеин"/>
+<edge source="Наталья Соболева" target="Камиль Лотфуллин"/>
+<edge source="Наталья Соболева" target="Юлия Ренёва"/>
+<edge source="Наталья Соболева" target="Максимилиан Артемьев"/>
+<edge source="Наталья Соболева" target="Алексей Соловьёв"/>
+<edge source="Наталья Соболева" target="Лёха Гавриков"/>
+<edge source="Наталья Соболева" target="Ярослав Ребенко"/>
+<edge source="Наталья Соболева" target="Никита Нестеров"/>
+<edge source="Наталья Соболева" target="Мария Фоменко"/>
+<edge source="Наталья Соболева" target="Михаил Флоринский"/>
+<edge source="Наталья Соболева" target="Денис Тарасов"/>
+<edge source="Антон Чернявский" target="Камиль Лотфуллин"/>
+<edge source="Антон Чернявский" target="Александр Чернявский"/>
+<edge source="Антон Чернявский" target="Алексей Соловьёв"/>
+<edge source="Антон Чернявский" target="Лёха Гавриков"/>
+<edge source="Антон Чернявский" target="Николай Кондрашов"/>
+<edge source="Антон Чернявский" target="Юрий Баранов"/>
+<edge source="Антон Чернявский" target="Валерий Батурин"/>
+<edge source="Антон Чернявский" target="Михаил Флоринский"/>
+<edge source="Камиль Лотфуллин" target="Илья Ставицкий"/>
+<edge source="Камиль Лотфуллин" target="Денис Шаклеин"/>
+<edge source="Камиль Лотфуллин" target="Юлия Ренёва"/>
+<edge source="Камиль Лотфуллин" target="Максимилиан Артемьев"/>
+<edge source="Камиль Лотфуллин" target="Александр Чернявский"/>
+<edge source="Камиль Лотфуллин" target="Алексей Соловьёв"/>
+<edge source="Камиль Лотфуллин" target="Лёха Гавриков"/>
+<edge source="Камиль Лотфуллин" target="Ярослав Ребенко"/>
+<edge source="Камиль Лотфуллин" target="Никита Нестеров"/>
+<edge source="Камиль Лотфуллин" target="Юрий Баранов"/>
+<edge source="Камиль Лотфуллин" target="Валерий Батурин"/>
+<edge source="Камиль Лотфуллин" target="Михаил Флоринский"/>
+<edge source="Камиль Лотфуллин" target="Денис Тарасов"/>
+<edge source="Юлия Ренёва" target="Денис Шаклеин"/>
+<edge source="Юлия Ренёва" target="Максимилиан Артемьев"/>
+<edge source="Юлия Ренёва" target="Евгений Сидоров"/>
+<edge source="Юлия Ренёва" target="Алексей Соловьёв"/>
+<edge source="Юлия Ренёва" target="Лёха Гавриков"/>
+<edge source="Юлия Ренёва" target="Николай Кондрашов"/>
+<edge source="Юлия Ренёва" target="Никита Нестеров"/>
+<edge source="Юлия Ренёва" target="Юрий Баранов"/>
+<edge source="Юлия Ренёва" target="Валерий Батурин"/>
+<edge source="Юлия Ренёва" target="Михаил Флоринский"/>
+<edge source="Юлия Ренёва" target="Денис Тарасов"/>
+<edge source="Максимилиан Артемьев" target="Денис Шаклеин"/>
+<edge source="Максимилиан Артемьев" target="Алексей Соловьёв"/>
+<edge source="Максимилиан Артемьев" target="Лёха Гавриков"/>
+<edge source="Максимилиан Артемьев" target="Ярослав Ребенко"/>
+<edge source="Максимилиан Артемьев" target="Никита Нестеров"/>
+<edge source="Максимилиан Артемьев" target="Валерий Батурин"/>
+<edge source="Максимилиан Артемьев" target="Михаил Флоринский"/>
+<edge source="Максимилиан Артемьев" target="Денис Тарасов"/>
+<edge source="Александр Чернявский" target="Алексей Соловьёв"/>
+<edge source="Александр Чернявский" target="Лёха Гавриков"/>
+<edge source="Александр Чернявский" target="Ярослав Ребенко"/>
+<edge source="Александр Чернявский" target="Николай Кондрашов"/>
+<edge source="Александр Чернявский" target="Никита Нестеров"/>
+<edge source="Александр Чернявский" target="Юрий Баранов"/>
+<edge source="Александр Чернявский" target="Валерий Батурин"/>
+<edge source="Александр Чернявский" target="Михаил Флоринский"/>
+<edge source="Лёха Гавриков" target="Илья Ставицкий"/>
+<edge source="Лёха Гавриков" target="Денис Шаклеин"/>
+<edge source="Лёха Гавриков" target="Алексей Соловьёв"/>
+<edge source="Лёха Гавриков" target="Ярослав Ребенко"/>
+<edge source="Лёха Гавриков" target="Никита Нестеров"/>
+<edge source="Лёха Гавриков" target="Юрий Баранов"/>
+<edge source="Лёха Гавриков" target="Валерий Батурин"/>
+<edge source="Лёха Гавриков" target="Мария Фоменко"/>
+<edge source="Лёха Гавриков" target="Михаил Флоринский"/>
+<edge source="Лёха Гавриков" target="Денис Тарасов"/>
+<edge source="Ярослав Ребенко" target="Денис Шаклеин"/>
+<edge source="Ярослав Ребенко" target="Алексей Соловьёв"/>
+<edge source="Ярослав Ребенко" target="Никита Нестеров"/>
+<edge source="Ярослав Ребенко" target="Андрей Соколов"/>
+<edge source="Ярослав Ребенко" target="Олег Николаев"/>
+<edge source="Ярослав Ребенко" target="Валерий Батурин"/>
+<edge source="Ярослав Ребенко" target="Мария Фоменко"/>
+<edge source="Ярослав Ребенко" target="Михаил Флоринский"/>
+<edge source="Ярослав Ребенко" target="Денис Тарасов"/>
+<edge source="Никита Нестеров" target="Евгений Сидоров"/>
+<edge source="Никита Нестеров" target="Алексей Соловьёв"/>
+<edge source="Никита Нестеров" target="Олег Николаев"/>
+<edge source="Никита Нестеров" target="Валерий Батурин"/>
+<edge source="Никита Нестеров" target="Евгений Мещеряков"/>
+<edge source="Никита Нестеров" target="Михаил Флоринский"/>
+<edge source="Андрей Соколов" target="Соня Хегай"/>
+<edge source="Андрей Соколов" target="Михаил Флоринский"/>
+<edge source="Валерий Батурин" target="Денис Шаклеин"/>
+<edge source="Валерий Батурин" target="Алексей Соловьёв"/>
+<edge source="Валерий Батурин" target="Мария Фоменко"/>
+<edge source="Валерий Батурин" target="Евгений Мещеряков"/>
+<edge source="Валерий Батурин" target="Михаил Флоринский"/>
+<edge source="Валерий Батурин" target="Денис Тарасов"/>
+<edge source="Мария Фоменко" target="Михаил Флоринский"/>
+<edge source="Евгений Мещеряков" target="Михаил Флоринский"/>
+<edge source="Михаил Флоринский" target="Денис Шаклеин"/>
+<edge source="Михаил Флоринский" target="Алексей Соловьёв"/>
+<edge source="Михаил Флоринский" target="Николай Кондрашов"/>
+<edge source="Михаил Флоринский" target="Олег Николаев"/>
+<edge source="Михаил Флоринский" target="Денис Тарасов"/>
+<edge source="Денис Тарасов" target="Дмитрий Ларькин"/>
+<edge source="Денис Тарасов" target="Денис Шаклеин"/>
+<edge source="Денис Тарасов" target="Алексей Соловьёв"/>
+<edge source="Егор Иванов" target="Ира Гутман"/>
+<edge source="Егор Иванов" target="Женя Соловьев"/>
+<edge source="Егор Иванов" target="Дарья Асатурян"/>
+<edge source="Егор Иванов" target="Артем Похмельных"/>
+<edge source="Егор Иванов" target="Соня Хегай"/>
+<edge source="Егор Иванов" target="Алина Щукина"/>
+<edge source="Егор Иванов" target="Глеб Вон"/>
+<edge source="Егор Иванов" target="Роман Цветков"/>
+<edge source="Ира Гутман" target="Артем Похмельных"/>
+<edge source="Ира Гутман" target="Соня Хегай"/>
+<edge source="Ира Гутман" target="Алина Щукина"/>
+<edge source="Ира Гутман" target="Роман Цветков"/>
+<edge source="Женя Соловьев" target="Павел Мальков"/>
+<edge source="Женя Соловьев" target="Дима Уткин"/>
+<edge source="Дарья Асатурян" target="Лиза Филонюк"/>
+<edge source="Дарья Асатурян" target="Александр Панов"/>
+<edge source="Артем Похмельных" target="Галина Серебряная"/>
+<edge source="Артем Похмельных" target="Софья Шепелева"/>
+<edge source="Артем Похмельных" target="Анна Двуреченская"/>
+<edge source="Артем Похмельных" target="Соня Хегай"/>
+<edge source="Артем Похмельных" target="Александр Панов"/>
+<edge source="Артем Похмельных" target="Глеб Чурсин"/>
+<edge source="Артем Похмельных" target="Алина Щукина"/>
+<edge source="Артем Похмельных" target="Инесса Шуйкова"/>
+<edge source="Артем Похмельных" target="Оксана Пикалова"/>
+<edge source="Артем Похмельных" target="Алексей Смирнов"/>
+<edge source="Артем Похмельных" target="Роман Цветков"/>
+<edge source="Артем Похмельных" target="Наталья Некрасова"/>
+<edge source="Соня Хегай" target="Александр Панов"/>
+<edge source="Соня Хегай" target="Алина Щукина"/>
+<edge source="Соня Хегай" target="Роман Цветков"/>
+<edge source="Алина Щукина" target="Галина Серебряная"/>
+<edge source="Алина Щукина" target="Софья Шепелева"/>
+<edge source="Алина Щукина" target="Анна Двуреченская"/>
+<edge source="Алина Щукина" target="Александр Панов"/>
+<edge source="Алина Щукина" target="Иван Карамышев"/>
+<edge source="Алина Щукина" target="Глеб Чурсин"/>
+<edge source="Алина Щукина" target="Инесса Шуйкова"/>
+<edge source="Алина Щукина" target="Оксана Пикалова"/>
+<edge source="Алина Щукина" target="Алексей Смирнов"/>
+<edge source="Алина Щукина" target="Глеб Вон"/>
+<edge source="Алина Щукина" target="Маргарита Мущак"/>
+<edge source="Алина Щукина" target="Роман Цветков"/>
+<edge source="Алина Щукина" target="Наталья Некрасова"/>
+<edge source="Роман Цветков" target="Александр Панов"/>
+<edge source="Дмитрий Сопов" target="Лена Сопова"/>
+<edge source="Дмитрий Сопов" target="Галина Серебряная"/>
+<edge source="Дмитрий Сопов" target="Ирина Артюшина"/>
+<edge source="Галина Серебряная" target="Анастасия Петрищева"/>
+<edge source="Галина Серебряная" target="Наталья Финкель"/>
+<edge source="Галина Серебряная" target="Софья Шепелева"/>
+<edge source="Галина Серебряная" target="Анна Двуреченская"/>
+<edge source="Галина Серебряная" target="Александр Панов"/>
+<edge source="Галина Серебряная" target="Инесса Шуйкова"/>
+<edge source="Галина Серебряная" target="Оксана Пикалова"/>
+<edge source="Галина Серебряная" target="Маргарита Мущак"/>
+<edge source="Галина Серебряная" target="Наталья Некрасова"/>
+<edge source="Денис Шаклеин" target="Алексей Соловьёв"/>
+<edge source="Денис Шаклеин" target="Николай Кондрашов"/>
+<edge source="Алексей Соловьёв" target="Дмитрий Ларькин"/>
+<edge source="Алексей Соловьёв" target="Евгений Сидоров"/>
+<edge source="Алексей Соловьёв" target="Николай Кондрашов"/>
+<edge source="Алексей Соловьёв" target="Юрий Баранов"/>
+<edge source="Владислав Горбов" target="Илья Сапунов"/>
+<edge source="Владислав Горбов" target="Екатерина Алексеева"/>
+<edge source="Владислав Горбов" target="Владислав Демидкин"/>
+<edge source="Владислав Горбов" target="Александр Шмыров"/>
+<edge source="Владислав Горбов" target="Богдан Драчук"/>
+<edge source="Илья Сапунов" target="Екатерина Алексеева"/>
+<edge source="Илья Сапунов" target="Владислав Демидкин"/>
+<edge source="Илья Сапунов" target="Александр Шмыров"/>
+<edge source="Илья Сапунов" target="Богдан Драчук"/>
+<edge source="Екатерина Алексеева" target="Владислав Демидкин"/>
+<edge source="Екатерина Алексеева" target="Александр Шмыров"/>
+<edge source="Екатерина Алексеева" target="Богдан Драчук"/>
+<edge source="Владислав Демидкин" target="Александр Шмыров"/>
+<edge source="Владислав Демидкин" target="Богдан Драчук"/>
+<edge source="Александр Шмыров" target="Богдан Драчук"/>
+<edge source="Анастасия Петрищева" target="Александр Панов"/>
+<edge source="Александр Панов" target="Глеб Чурсин"/>
+<edge source="Александр Панов" target="Оксана Пикалова"/>
+<edge source="Александр Панов" target="Алексей Смирнов"/>
+<edge source="Александр Панов" target="Маргарита Мущак"/>
+<edge source="Александр Панов" target="Наталья Некрасова"/>
+<edge source="Евгений Сидоров" target="Юрий Баранов"/>
+<edge source="Николай Кондрашов" target="Юрий Баранов"/>
+<edge source="Юрий Баранов" target="Илья Ставицкий"/>
+<edge source="Наталья Финкель" target="Лиза Филонюк"/>
+<edge source="Наталья Финкель" target="Ирина Лихачева"/>
+<edge source="Лиза Филонюк" target="Ирина Лихачева"/>
+<edge source="Павел Мальков" target="Маргарита Петрусевич"/>
+<edge source="Павел Мальков" target="Илья Лыжин"/>
+<edge source="Павел Мальков" target="Дима Уткин"/>
+<edge source="Дима Уткин" target="Олег Ершов"/>
+<edge source="Дима Уткин" target="Илья Лыжин"/>
+<edge source="Дима Уткин" target="Нияз Наибулин"/>
+<edge source="Дима Уткин" target="Ваня Спит"/>
+<edge source="Дима Уткин" target="Shoky Huss"/>
+<edge source="Софья Шепелева" target="Анна Двуреченская"/>
+<edge source="Софья Шепелева" target="Глеб Чурсин"/>
+<edge source="Софья Шепелева" target="Инесса Шуйкова"/>
+<edge source="Софья Шепелева" target="Алексей Смирнов"/>
+<edge source="Софья Шепелева" target="Наталья Некрасова"/>
+<edge source="Анна Двуреченская" target="Глеб Чурсин"/>
+<edge source="Анна Двуреченская" target="Инесса Шуйкова"/>
+<edge source="Анна Двуреченская" target="Оксана Пикалова"/>
+<edge source="Анна Двуреченская" target="Наталья Некрасова"/>
+<edge source="Инесса Шуйкова" target="Алина Щеглеватых"/>
+<edge source="Инесса Шуйкова" target="Оксана Пикалова"/>
+<edge source="Инесса Шуйкова" target="Алексей Смирнов"/>
+<edge source="Инесса Шуйкова" target="Наталья Некрасова"/>
+<edge source="Оксана Пикалова" target="Маргарита Мущак"/>
+<edge source="Оксана Пикалова" target="Наталья Некрасова"/>
+<edge source="Наталья Некрасова" target="Глеб Чурсин"/>
+<edge source="Валерия Неклюдова" target="Алена Поминова"/>
+<edge source="Валерия Неклюдова" target="Анна Петрова"/>
+<edge source="Валерия Неклюдова" target="Юлия Александрович"/>
+<edge source="Валерия Неклюдова" target="Александр Еремеев"/>
+<edge source="Валерия Неклюдова" target="Владимир Тагинцев"/>
+<edge source="Валерия Неклюдова" target="Лиза Басинских"/>
+<edge source="Валерия Неклюдова" target="Никита Пастухов"/>
+<edge source="Валерия Неклюдова" target="Таня Никифорова"/>
+<edge source="Валерия Неклюдова" target="Dанил Сапронов"/>
+<edge source="Валерия Неклюдова" target="Никита Никифоров"/>
+<edge source="Валерия Неклюдова" target="Елизавета Ильина"/>
+<edge source="Валерия Неклюдова" target="Светлана Лазарева"/>
+<edge source="Алена Поминова" target="Алина Щеглеватых"/>
+<edge source="Алена Поминова" target="Александр Еремеев"/>
+<edge source="Алена Поминова" target="Владимир Тагинцев"/>
+<edge source="Алена Поминова" target="Никита Пастухов"/>
+<edge source="Алена Поминова" target="Таня Никифорова"/>
+<edge source="Алена Поминова" target="Dанил Сапронов"/>
+<edge source="Алена Поминова" target="Никита Никифоров"/>
+<edge source="Алена Поминова" target="Иван Карамышев"/>
+<edge source="Алена Поминова" target="Марина Стюфляева"/>
+<edge source="Алена Поминова" target="Алексей Смирнов"/>
+<edge source="Анна Петрова" target="Юлия Александрович"/>
+<edge source="Анна Петрова" target="Александр Еремеев"/>
+<edge source="Анна Петрова" target="Владимир Тагинцев"/>
+<edge source="Анна Петрова" target="Лиза Басинских"/>
+<edge source="Анна Петрова" target="Никита Пастухов"/>
+<edge source="Анна Петрова" target="Таня Никифорова"/>
+<edge source="Анна Петрова" target="Dанил Сапронов"/>
+<edge source="Анна Петрова" target="Никита Никифоров"/>
+<edge source="Анна Петрова" target="Иван Карамышев"/>
+<edge source="Анна Петрова" target="Марина Стюфляева"/>
+<edge source="Анна Петрова" target="Дмитрий Ельников"/>
+<edge source="Анна Петрова" target="Елизавета Ильина"/>
+<edge source="Анна Петрова" target="Женёк Филиппов"/>
+<edge source="Анна Петрова" target="Светлана Лазарева"/>
+<edge source="Юлия Александрович" target="Александр Еремеев"/>
+<edge source="Юлия Александрович" target="Лиза Басинских"/>
+<edge source="Юлия Александрович" target="Никита Пастухов"/>
+<edge source="Юлия Александрович" target="Таня Никифорова"/>
+<edge source="Юлия Александрович" target="Dанил Сапронов"/>
+<edge source="Юлия Александрович" target="Алина Манюхина"/>
+<edge source="Юлия Александрович" target="Никита Никифоров"/>
+<edge source="Юлия Александрович" target="Иван Карамышев"/>
+<edge source="Юлия Александрович" target="Марина Стюфляева"/>
+<edge source="Юлия Александрович" target="Дмитрий Ельников"/>
+<edge source="Юлия Александрович" target="Елизавета Ильина"/>
+<edge source="Юлия Александрович" target="Женёк Филиппов"/>
+<edge source="Юлия Александрович" target="Светлана Лазарева"/>
+<edge source="Александр Еремеев" target="Владимир Тагинцев"/>
+<edge source="Александр Еремеев" target="Лиза Басинских"/>
+<edge source="Александр Еремеев" target="Никита Пастухов"/>
+<edge source="Александр Еремеев" target="Таня Никифорова"/>
+<edge source="Александр Еремеев" target="Dанил Сапронов"/>
+<edge source="Александр Еремеев" target="Никита Никифоров"/>
+<edge source="Александр Еремеев" target="Дмитрий Ельников"/>
+<edge source="Александр Еремеев" target="Елизавета Ильина"/>
+<edge source="Александр Еремеев" target="Светлана Лазарева"/>
+<edge source="Александр Еремеев" target="Марина Стюфляева"/>
+<edge source="Владимир Тагинцев" target="Лиза Басинских"/>
+<edge source="Владимир Тагинцев" target="Никита Пастухов"/>
+<edge source="Владимир Тагинцев" target="Таня Никифорова"/>
+<edge source="Владимир Тагинцев" target="Dанил Сапронов"/>
+<edge source="Владимир Тагинцев" target="Никита Никифоров"/>
+<edge source="Владимир Тагинцев" target="Иван Карамышев"/>
+<edge source="Владимир Тагинцев" target="Дмитрий Ельников"/>
+<edge source="Владимир Тагинцев" target="Елизавета Ильина"/>
+<edge source="Владимир Тагинцев" target="Светлана Лазарева"/>
+<edge source="Лиза Басинских" target="Никита Пастухов"/>
+<edge source="Лиза Басинских" target="Таня Никифорова"/>
+<edge source="Лиза Басинских" target="Dанил Сапронов"/>
+<edge source="Лиза Басинских" target="Иван Карамышев"/>
+<edge source="Лиза Басинских" target="Марина Стюфляева"/>
+<edge source="Лиза Басинских" target="Елизавета Ильина"/>
+<edge source="Лиза Басинских" target="Анастасия Васильева"/>
+<edge source="Лиза Басинских" target="Светлана Лазарева"/>
+<edge source="Никита Пастухов" target="Илья Достойнов"/>
+<edge source="Никита Пастухов" target="Таня Никифорова"/>
+<edge source="Никита Пастухов" target="Dанил Сапронов"/>
+<edge source="Никита Пастухов" target="Алина Манюхина"/>
+<edge source="Никита Пастухов" target="Никита Никифоров"/>
+<edge source="Никита Пастухов" target="Иван Карамышев"/>
+<edge source="Никита Пастухов" target="Марина Стюфляева"/>
+<edge source="Никита Пастухов" target="Дмитрий Ельников"/>
+<edge source="Никита Пастухов" target="Алексей Егоров"/>
+<edge source="Никита Пастухов" target="Женёк Филиппов"/>
+<edge source="Никита Пастухов" target="Светлана Лазарева"/>
+<edge source="Таня Никифорова" target="Dанил Сапронов"/>
+<edge source="Таня Никифорова" target="Никита Никифоров"/>
+<edge source="Таня Никифорова" target="Иван Карамышев"/>
+<edge source="Таня Никифорова" target="Марина Стюфляева"/>
+<edge source="Таня Никифорова" target="Светлана Лазарева"/>
+<edge source="Таня Никифорова" target="Карен Мелконян"/>
+<edge source="Dанил Сапронов" target="Никита Никифоров"/>
+<edge source="Dанил Сапронов" target="Иван Карамышев"/>
+<edge source="Dанил Сапронов" target="Марина Стюфляева"/>
+<edge source="Dанил Сапронов" target="Елизавета Ильина"/>
+<edge source="Dанил Сапронов" target="Анастасия Васильева"/>
+<edge source="Dанил Сапронов" target="Светлана Лазарева"/>
+<edge source="Никита Никифоров" target="Иван Карамышев"/>
+<edge source="Никита Никифоров" target="Марина Стюфляева"/>
+<edge source="Никита Никифоров" target="Елизавета Ильина"/>
+<edge source="Никита Никифоров" target="Светлана Лазарева"/>
+<edge source="Елизавета Ильина" target="Иван Карамышев"/>
+<edge source="Елизавета Ильина" target="Женёк Филиппов"/>
+<edge source="Елизавета Ильина" target="Светлана Лазарева"/>
+<edge source="Светлана Лазарева" target="Алина Манюхина"/>
+<edge source="Светлана Лазарева" target="Иван Карамышев"/>
+<edge source="Светлана Лазарева" target="Марина Стюфляева"/>
+<edge source="Светлана Лазарева" target="Анастасия Васильева"/>
+<edge source="Светлана Лазарева" target="Женёк Филиппов"/>
+<edge source="Глеб Чурсин" target="Алексей Смирнов"/>
+<edge source="Глеб Чурсин" target="Ваня Спит"/>
+<edge source="Илья Лыжин" target="Эдуард Пахомов"/>
+<edge source="Иван Карамышев" target="Илья Достойнов"/>
+<edge source="Иван Карамышев" target="Марина Стюфляева"/>
+<edge source="Иван Карамышев" target="Дмитрий Ельников"/>
+<edge source="Иван Карамышев" target="Алексей Егоров"/>
+<edge source="Иван Карамышев" target="Женёк Филиппов"/>
+<edge source="Марина Стюфляева" target="Анастасия Васильева"/>
+<edge source="Марина Стюфляева" target="Женёк Филиппов"/>
+<edge source="Дмитрий Ельников" target="Женёк Филиппов"/>
+<edge source="Дмитрий Ельников" target="Карен Мелконян"/>
+<edge source="Женёк Филиппов" target="Анастасия Васильева"/>
+<edge source="Женёк Филиппов" target="Карен Мелконян"/>
+<edge source="Анастасия Васильева" target="Алексей Егоров"/>
+<edge source="Нияз Наибулин" target="Ваня Спит"/>
+<edge source="Нияз Наибулин" target="Shoky Huss"/>
+<edge source="Ваня Спит" target="Shoky Huss"/>
+</graph></graphml>

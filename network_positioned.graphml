@@ -1,0 +1,3020 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="partition_mcl" attr.type="int" for="node" id="d8"/>
+<key attr.name="partition_louvain" attr.type="long" for="node" id="d7"/>
+<key attr.name="in_largest_clique" attr.type="long" for="node" id="d6"/>
+<key attr.name="pagerank" attr.type="double" for="node" id="d5"/>
+<key attr.name="betweenness_centrality" attr.type="double" for="node" id="d4"/>
+<key attr.name="closeness_centrality" attr.type="double" for="node" id="d3"/>
+<key attr.name="degree_centrality" attr.type="double" for="node" id="d2"/>
+<key attr.name="sex" attr.type="string" for="node" id="d1"/>
+<key attr.name="city" attr.type="string" for="node" id="d0"/>
+<key attr.name="partition_edge_betweenness" attr.type="string" for="node" id="partition_edge_betweenness"/>
+<graph edgedefault="undirected">
+<node id="Сергей Горбачёв">
+<data key="label">Сергей Горбачёв</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.014564047021822861</data>
+<data key="d4">0.06637821663456636</data>
+<data key="d3">0.2576644370122631</data>
+<data key="d2">0.21739130434782608</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.7391305</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-156.71898</data>
+<data key="y">-18.844349</data>
+</node>
+<node id="Антон Наумов">
+<data key="label">Антон Наумов</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.015015983964854176</data>
+<data key="d4">0.0021492935932487496</data>
+<data key="d3">0.21786261340874277</data>
+<data key="d2">0.22826086956521738</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.8043478</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-150.91864</data>
+<data key="y">-42.847363</data>
+</node>
+<node id="Катя Минеева">
+<data key="label">Катя Минеева</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.01327913937106376</data>
+<data key="d4">0.051584572823704496</data>
+<data key="d3">0.2560232622542232</data>
+<data key="d2">0.19565217391304346</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">3.6086955</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-140.0579</data>
+<data key="y">-19.831991</data>
+</node>
+<node id="Евгений Правда">
+<data key="label">Евгений Правда</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.01324758231424455</data>
+<data key="d4">0.009970393076745144</data>
+<data key="d3">0.21552628511481525</data>
+<data key="d2">0.19565217391304346</data>
+<data key="d1">male</data>
+<data key="d0">Vancouver</data>
+<data key="size">3.6086955</data>
+<data key="r">173</data>
+<data key="g">83</data>
+<data key="b">109</data>
+<data key="x">-145.27318</data>
+<data key="y">-77.87459</data>
+</node>
+<node id="Екатерина Глазкова">
+<data key="label">Екатерина Глазкова</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.012343882333676405</data>
+<data key="d4">8.910624172964807E-4</data>
+<data key="d3">0.21552628511481525</data>
+<data key="d2">0.18478260869565216</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">3.5434783</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-167.4653</data>
+<data key="y">-47.90616</data>
+</node>
+<node id="Никита Ширин">
+<data key="label">Никита Ширин</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.0120935725947408</data>
+<data key="d4">0.04153136026841619</data>
+<data key="d3">0.25360032917295294</data>
+<data key="d2">0.17391304347826086</data>
+<data key="d1">male</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">3.478261</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">-146.73622</data>
+<data key="y">-3.5758126</data>
+</node>
+<node id="Наталья Соболева">
+<data key="label">Наталья Соболева</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.012617218884766681</data>
+<data key="d4">0.006785932763733233</data>
+<data key="d3">0.21552628511481525</data>
+<data key="d2">0.18478260869565216</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">3.5434783</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-104.92434</data>
+<data key="y">-45.538376</data>
+</node>
+<node id="Антон Чернявский">
+<data key="label">Антон Чернявский</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.00989036107642409</data>
+<data key="d4">0.0021596365052590264</data>
+<data key="d3">0.21323953407911428</data>
+<data key="d2">0.14130434782608695</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.2826087</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-158.85878</data>
+<data key="y">-79.62879</data>
+</node>
+<node id="Камиль Лотфуллин">
+<data key="label">Камиль Лотфуллин</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.014547469896835311</data>
+<data key="d4">0.010064398658366787</data>
+<data key="d3">0.2172737955346651</data>
+<data key="d2">0.21739130434782608</data>
+<data key="d1">male</data>
+<data key="d0">Казань</data>
+<data key="size">3.7391305</data>
+<data key="r">118</data>
+<data key="g">118</data>
+<data key="b">28</data>
+<data key="x">-124.91685</data>
+<data key="y">-62.16195</data>
+</node>
+<node id="Юлия Ренёва">
+<data key="label">Юлия Ренёва</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.012643276326203266</data>
+<data key="d4">0.005134115243593475</data>
+<data key="d3">0.21552628511481525</data>
+<data key="d2">0.18478260869565216</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">3.5434783</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-125.941345</data>
+<data key="y">-83.610016</data>
+</node>
+<node id="Максимилиан Артемьев">
+<data key="label">Максимилиан Артемьев</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.01100593593454621</data>
+<data key="d4">2.266506387385508E-4</data>
+<data key="d3">0.2143768115942029</data>
+<data key="d2">0.16304347826086957</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.4130435</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-119.7969</data>
+<data key="y">-46.305824</data>
+</node>
+<node id="Александр Чернявский">
+<data key="label">Александр Чернявский</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.011805559734346903</data>
+<data key="d4">0.003647161917468992</data>
+<data key="d3">0.21495001162520344</data>
+<data key="d2">0.17391304347826086</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.478261</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-161.48445</data>
+<data key="y">-63.33251</data>
+</node>
+<node id="Лёха Гавриков">
+<data key="label">Лёха Гавриков</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.01586571858943012</data>
+<data key="d4">0.01112380170952808</data>
+<data key="d3">0.2184546313799622</data>
+<data key="d2">0.2391304347826087</data>
+<data key="d1">male</data>
+<data key="d0">Хабаровск</data>
+<data key="size">3.8695652</data>
+<data key="r">0</data>
+<data key="g">182</data>
+<data key="b">238</data>
+<data key="x">-141.24252</data>
+<data key="y">-60.076138</data>
+</node>
+<node id="Ярослав Ребенко">
+<data key="label">Ярослав Ребенко</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.01462513207770844</data>
+<data key="d4">0.06974880209909386</data>
+<data key="d3">0.2576644370122631</data>
+<data key="d2">0.21739130434782608</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.7391305</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-120.72667</data>
+<data key="y">-14.285489</data>
+</node>
+<node id="Никита Нестеров">
+<data key="label">Никита Нестеров</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.013377858596178427</data>
+<data key="d4">0.008190599418393493</data>
+<data key="d3">0.21610565684899485</data>
+<data key="d2">0.19565217391304346</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.6086955</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-118.20715</data>
+<data key="y">-28.991602</data>
+</node>
+<node id="Андрей Соколов">
+<data key="label">Андрей Соколов</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.006004154916216518</data>
+<data key="d4">0.38795986622073575</data>
+<data key="d3">0.2944736422997293</data>
+<data key="d2">0.06521739130434782</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.826087</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-83.471504</data>
+<data key="y">-8.005452</data>
+</node>
+<node id="Валерий Батурин">
+<data key="label">Валерий Батурин</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.014381717019056649</data>
+<data key="d4">0.0020010456348984896</data>
+<data key="d3">0.2172737955346651</data>
+<data key="d2">0.21739130434782608</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.7391305</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-164.87047</data>
+<data key="y">-33.12741</data>
+</node>
+<node id="Мария Фоменко">
+<data key="label">Мария Фоменко</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.00654903521104924</data>
+<data key="d4">1.4930721452460582E-5</data>
+<data key="d3">0.20935235507246377</data>
+<data key="d2">0.08695652173913043</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">2.9565217</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-133.32874</data>
+<data key="y">-5.7494793</data>
+</node>
+<node id="Евгений Мещеряков">
+<data key="label">Евгений Мещеряков</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.005340676228247959</data>
+<data key="d4">0.0</data>
+<data key="d3">0.20772946859903382</data>
+<data key="d2">0.06521739130434782</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.826087</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-130.61272</data>
+<data key="y">7.0763984</data>
+</node>
+<node id="Михаил Флоринский">
+<data key="label">Михаил Флоринский</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">1</data>
+<data key="d5">0.01738575779329743</data>
+<data key="d4">0.10575691497275355</data>
+<data key="d3">0.26101072840203277</data>
+<data key="d2">0.2608695652173913</data>
+<data key="d1">male</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">4.0</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">-134.64865</data>
+<data key="y">-36.972816</data>
+</node>
+<node id="Денис Тарасов">
+<data key="label">Денис Тарасов</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.011584753385272087</data>
+<data key="d4">0.012182810127902817</data>
+<data key="d3">0.2143768115942029</data>
+<data key="d2">0.16304347826086957</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.4130435</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-102.04989</data>
+<data key="y">-34.44032</data>
+</node>
+<node id="Егор Иванов">
+<data key="label">Егор Иванов</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.014220153903529544</data>
+<data key="d4">0.12348149607466374</data>
+<data key="d3">0.30683703949551944</data>
+<data key="d2">0.08695652173913043</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.9565217</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">57.366535</data>
+<data key="y">-35.087276</data>
+</node>
+<node id="Ира Гутман">
+<data key="label">Ира Гутман</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.00814735609719645</data>
+<data key="d4">0.0</data>
+<data key="d3">0.29233201581027674</data>
+<data key="d2">0.05434782608695652</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">2.7608695</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">64.654884</data>
+<data key="y">-47.00875</data>
+</node>
+<node id="Женя Соловьев">
+<data key="label">Женя Соловьев</data>
+<data key="d8">77</data>
+<data key="d7">2</data>
+<data key="d6">0</data>
+<data key="d5">0.008522492863555383</data>
+<data key="d4">0.08943357367270413</data>
+<data key="d3">0.24435046914232852</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.6304348</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">17.990786</data>
+<data key="y">-2.5997407</data>
+</node>
+<node id="Дарья Асатурян">
+<data key="label">Дарья Асатурян</data>
+<data key="d8">50</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.006861473069582536</data>
+<data key="d4">0.02213908417324564</data>
+<data key="d3">0.24812130971551263</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">2.6304348</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">42.728256</data>
+<data key="y">-31.292353</data>
+</node>
+<node id="Артем Похмельных">
+<data key="label">Артем Похмельных</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.019917535128573294</data>
+<data key="d4">0.0609423972912803</data>
+<data key="d3">0.3177521910981268</data>
+<data key="d2">0.15217391304347827</data>
+<data key="d1">male</data>
+<data key="d0">Липецк</data>
+<data key="size">3.347826</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">102.00452</data>
+<data key="y">-56.787613</data>
+</node>
+<node id="Соня Хегай">
+<data key="label">Соня Хегай</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.01042163173059508</data>
+<data key="d4">0.3952904238618524</data>
+<data key="d3">0.32947255880256593</data>
+<data key="d2">0.07608695652173914</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">2.8913043</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">48.05417</data>
+<data key="y">-46.819866</data>
+</node>
+<node id="Алина Щукина">
+<data key="label">Алина Щукина</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.024073123882338066</data>
+<data key="d4">0.3672722524294143</data>
+<data key="d3">0.34651424287856075</data>
+<data key="d2">0.18478260869565216</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">3.5434783</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">93.99279</data>
+<data key="y">-24.415596</data>
+</node>
+<node id="Глеб Вон">
+<data key="label">Глеб Вон</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.004327664625541116</data>
+<data key="d4">0.0</data>
+<data key="d3">0.26186092621441726</data>
+<data key="d2">0.021739130434782608</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.5652175</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">55.781773</data>
+<data key="y">-16.859055</data>
+</node>
+<node id="Роман Цветков">
+<data key="label">Роман Цветков</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.009491846708972511</data>
+<data key="d4">4.0270288717493677E-4</data>
+<data key="d3">0.2944736422997293</data>
+<data key="d2">0.06521739130434782</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.826087</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">68.60987</data>
+<data key="y">-55.554596</data>
+</node>
+<node id="Дмитрий Сопов">
+<data key="label">Дмитрий Сопов</data>
+<data key="d8">30</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.011192316761841997</data>
+<data key="d4">0.040372670807453416</data>
+<data key="d3">0.21495001162520344</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">male</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.6304348</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">28.700886</data>
+<data key="y">-26.55383</data>
+</node>
+<node id="Лена Сопова">
+<data key="label">Лена Сопова</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.004785558099322067</data>
+<data key="d4">0.0</data>
+<data key="d3">0.17514445391683242</data>
+<data key="d2">0.010869565217391304</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">2.5</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">10.848256</data>
+<data key="y">-15.6841755</data>
+</node>
+<node id="Галина Серебряная">
+<data key="label">Галина Серебряная</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.02042070243614738</data>
+<data key="d4">0.0990398835119333</data>
+<data key="d3">0.274373052381659</data>
+<data key="d2">0.13043478260869565</data>
+<data key="d1">female</data>
+<data key="d0">Липецк</data>
+<data key="size">3.2173913</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">93.99051</data>
+<data key="y">-41.27817</data>
+</node>
+<node id="Ирина Артюшина">
+<data key="label">Ирина Артюшина</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.004785558099322067</data>
+<data key="d4">0.0</data>
+<data key="d3">0.17514445391683242</data>
+<data key="d2">0.010869565217391304</data>
+<data key="d1">female</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.5</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">11.554514</data>
+<data key="y">-20.019695</data>
+</node>
+<node id="Денис Шаклеин">
+<data key="label">Денис Шаклеин</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.010461734749251016</data>
+<data key="d4">5.592802642492082E-4</data>
+<data key="d3">0.21380666049953748</data>
+<data key="d2">0.15217391304347827</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.347826</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-116.2914</data>
+<data key="y">-72.841606</data>
+</node>
+<node id="Алексей Соловьёв">
+<data key="label">Алексей Соловьёв</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.013896221364773923</data>
+<data key="d4">0.013234495744470892</data>
+<data key="d3">0.21610565684899485</data>
+<data key="d2">0.19565217391304346</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.6086955</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-101.3395</data>
+<data key="y">-71.20195</data>
+</node>
+<node id="Владислав Горбов">
+<data key="label">Владислав Горбов</data>
+<data key="d8">36</data>
+<data key="d7">3</data>
+<data key="d6">0</data>
+<data key="d5">0.010752688172043012</data>
+<data key="d4">0.0</data>
+<data key="d3">0.05434782608695652</data>
+<data key="d2">0.05434782608695652</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.7608695</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">29.542505</data>
+<data key="y">-90.84025</data>
+</node>
+<node id="Илья Сапунов">
+<data key="label">Илья Сапунов</data>
+<data key="d8">36</data>
+<data key="d7">3</data>
+<data key="d6">0</data>
+<data key="d5">0.010752688172043012</data>
+<data key="d4">0.0</data>
+<data key="d3">0.05434782608695652</data>
+<data key="d2">0.05434782608695652</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.7608695</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">21.96927</data>
+<data key="y">-91.78983</data>
+</node>
+<node id="Екатерина Алексеева">
+<data key="label">Екатерина Алексеева</data>
+<data key="d8">36</data>
+<data key="d7">3</data>
+<data key="d6">0</data>
+<data key="d5">0.010752688172043012</data>
+<data key="d4">0.0</data>
+<data key="d3">0.05434782608695652</data>
+<data key="d2">0.05434782608695652</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">2.7608695</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">22.332987</data>
+<data key="y">-83.94919</data>
+</node>
+<node id="Владислав Демидкин">
+<data key="label">Владислав Демидкин</data>
+<data key="d8">36</data>
+<data key="d7">3</data>
+<data key="d6">0</data>
+<data key="d5">0.010752688172043012</data>
+<data key="d4">0.0</data>
+<data key="d3">0.05434782608695652</data>
+<data key="d2">0.05434782608695652</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.7608695</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">14.731917</data>
+<data key="y">-88.30379</data>
+</node>
+<node id="Александр Шмыров">
+<data key="label">Александр Шмыров</data>
+<data key="d8">36</data>
+<data key="d7">3</data>
+<data key="d6">0</data>
+<data key="d5">0.010752688172043012</data>
+<data key="d4">0.0</data>
+<data key="d3">0.05434782608695652</data>
+<data key="d2">0.05434782608695652</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.7608695</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">17.012993</data>
+<data key="y">-97.6346</data>
+</node>
+<node id="Богдан Драчук">
+<data key="label">Богдан Драчук</data>
+<data key="d8">36</data>
+<data key="d7">3</data>
+<data key="d6">0</data>
+<data key="d5">0.010752688172043012</data>
+<data key="d4">0.0</data>
+<data key="d3">0.05434782608695652</data>
+<data key="d2">0.05434782608695652</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.7608695</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">26.075739</data>
+<data key="y">-99.05436</data>
+</node>
+<node id="Олег Николаев">
+<data key="label">Олег Николаев</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.0047513580501906405</data>
+<data key="d4">0.0</data>
+<data key="d3">0.2071940833706858</data>
+<data key="d2">0.05434782608695652</data>
+<data key="d1">male</data>
+<data key="d0">Харьков</data>
+<data key="size">2.7608695</data>
+<data key="r">80</data>
+<data key="g">134</data>
+<data key="b">227</data>
+<data key="x">-105.83316</data>
+<data key="y">4.858453</data>
+</node>
+<node id="Дмитрий Ларькин">
+<data key="label">Дмитрий Ларькин</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.002925528495030659</data>
+<data key="d4">0.0</data>
+<data key="d3">0.17746424800844612</data>
+<data key="d2">0.021739130434782608</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.5652175</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-57.785637</data>
+<data key="y">-36.586327</data>
+</node>
+<node id="Анастасия Петрищева">
+<data key="label">Анастасия Петрищева</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.004363435853941719</data>
+<data key="d4">0.0</data>
+<data key="d3">0.24141532837185012</data>
+<data key="d2">0.021739130434782608</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">2.5652175</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">65.97835</data>
+<data key="y">-30.699635</data>
+</node>
+<node id="Александр Панов">
+<data key="label">Александр Панов</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.018409856802018367</data>
+<data key="d4">0.0748757366314749</data>
+<data key="d3">0.3115942028985507</data>
+<data key="d2">0.13043478260869565</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.2173913</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">85.506615</data>
+<data key="y">-52.043022</data>
+</node>
+<node id="Евгений Сидоров">
+<data key="label">Евгений Сидоров</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.004878571022395739</data>
+<data key="d4">7.510977031711171E-5</data>
+<data key="d3">0.18065461651196874</data>
+<data key="d2">0.05434782608695652</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.7608695</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-84.25751</data>
+<data key="y">-79.02029</data>
+</node>
+<node id="Николай Кондрашов">
+<data key="label">Николай Кондрашов</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.00677152786423154</data>
+<data key="d4">7.06095416830708E-4</data>
+<data key="d3">0.2104484407011154</data>
+<data key="d2">0.08695652173913043</data>
+<data key="d1">male</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.9565217</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">-120.842606</data>
+<data key="y">-99.051575</data>
+</node>
+<node id="Юрий Баранов">
+<data key="label">Юрий Баранов</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.008471970434559368</data>
+<data key="d4">0.001301379779640649</data>
+<data key="d3">0.18229320713792765</data>
+<data key="d2">0.10869565217391304</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.0869565</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-106.23788</data>
+<data key="y">-96.76933</data>
+</node>
+<node id="Наталья Финкель">
+<data key="label">Наталья Финкель</data>
+<data key="d8">50</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.008200094225554677</data>
+<data key="d4">0.018271316330322553</data>
+<data key="d3">0.21552628511481525</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">female</data>
+<data key="d0">Липецк</data>
+<data key="size">2.6304348</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">39.13042</data>
+<data key="y">-18.489958</data>
+</node>
+<node id="Лиза Филонюк">
+<data key="label">Лиза Филонюк</data>
+<data key="d8">50</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.008588073402370739</data>
+<data key="d4">0.006403525735823873</data>
+<data key="d3">0.2024969882816778</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">female</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.6304348</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">26.67671</data>
+<data key="y">-18.564129</data>
+</node>
+<node id="Ирина Лихачева">
+<data key="label">Ирина Лихачева</data>
+<data key="d8">50</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.006369928511324327</data>
+<data key="d4">0.0</data>
+<data key="d3">0.17944487577639753</data>
+<data key="d2">0.021739130434782608</data>
+<data key="d1">female</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.5652175</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">21.305416</data>
+<data key="y">-13.608553</data>
+</node>
+<node id="Павел Мальков">
+<data key="label">Павел Мальков</data>
+<data key="d8">52</data>
+<data key="d7">2</data>
+<data key="d6">0</data>
+<data key="d5">0.013497224269943396</data>
+<data key="d4">0.03335118987292901</data>
+<data key="d3">0.19997836902444302</data>
+<data key="d2">0.043478260869565216</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.6956522</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">0.3112061</data>
+<data key="y">10.409144</data>
+</node>
+<node id="Дима Уткин">
+<data key="label">Дима Уткин</data>
+<data key="d8">53</data>
+<data key="d7">2</data>
+<data key="d6">0</data>
+<data key="d5">0.02082932662984571</data>
+<data key="d4">0.05482396313141652</data>
+<data key="d3">0.20666145076561976</data>
+<data key="d2">0.07608695652173914</data>
+<data key="d1">male</data>
+<data key="d0">Воронеж</data>
+<data key="size">2.8913043</data>
+<data key="r">239</data>
+<data key="g">88</data>
+<data key="b">219</data>
+<data key="x">12.571745</data>
+<data key="y">14.63791</data>
+</node>
+<node id="Софья Шепелева">
+<data key="label">Софья Шепелева</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.011789592282908202</data>
+<data key="d4">0.0027879575016278666</data>
+<data key="d3">0.2753126861226921</data>
+<data key="d2">0.08695652173913043</data>
+<data key="d1">female</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.9565217</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">122.23038</data>
+<data key="y">-32.247032</data>
+</node>
+<node id="Анна Двуреченская">
+<data key="label">Анна Двуреченская</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.011833703471481667</data>
+<data key="d4">0.0022992535414895657</data>
+<data key="d3">0.2725128960943257</data>
+<data key="d2">0.08695652173913043</data>
+<data key="d1">female</data>
+<data key="d0">Липецк</data>
+<data key="size">2.9565217</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">123.927704</data>
+<data key="y">-42.47224</data>
+</node>
+<node id="Инесса Шуйкова">
+<data key="label">Инесса Шуйкова</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.01333325894317431</data>
+<data key="d4">0.016188240910612696</data>
+<data key="d3">0.2697694776772688</data>
+<data key="d2">0.09782608695652173</data>
+<data key="d1">female</data>
+<data key="d0">Липецк</data>
+<data key="size">3.021739</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">118.436646</data>
+<data key="y">-22.105522</data>
+</node>
+<node id="Оксана Пикалова">
+<data key="label">Оксана Пикалова</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.01198949891094038</data>
+<data key="d4">5.583615832063036E-4</data>
+<data key="d3">0.2670807453416149</data>
+<data key="d2">0.08695652173913043</data>
+<data key="d1">female</data>
+<data key="d0">Липецк</data>
+<data key="size">2.9565217</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">109.32457</data>
+<data key="y">-46.986748</data>
+</node>
+<node id="Маргарита Мущак">
+<data key="label">Маргарита Мущак</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.006841146179075229</data>
+<data key="d4">0.0</data>
+<data key="d3">0.2627166808752487</data>
+<data key="d2">0.043478260869565216</data>
+<data key="d1">female</data>
+<data key="d0">Липецк</data>
+<data key="size">2.6956522</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">79.9209</data>
+<data key="y">-35.71944</data>
+</node>
+<node id="Наталья Некрасова">
+<data key="label">Наталья Некрасова</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.013152933386049566</data>
+<data key="d4">0.002568954509948298</data>
+<data key="d3">0.274373052381659</data>
+<data key="d2">0.09782608695652173</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">3.021739</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">119.92617</data>
+<data key="y">-52.36286</data>
+</node>
+<node id="Валерия Неклюдова">
+<data key="label">Валерия Неклюдова</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.011476372242109893</data>
+<data key="d4">5.25664811379097E-4</data>
+<data key="d3">0.20666145076561976</data>
+<data key="d2">0.13043478260869565</data>
+<data key="d1">female</data>
+<data key="d0">Липецк</data>
+<data key="size">3.2173913</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">104.04575</data>
+<data key="y">134.06328</data>
+</node>
+<node id="Алена Поминова">
+<data key="label">Алена Поминова</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.011830516599959378</data>
+<data key="d4">0.034777554186290215</data>
+<data key="d3">0.24584496742454462</data>
+<data key="d2">0.11956521739130435</data>
+<data key="d1">female</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">3.152174</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">96.95033</data>
+<data key="y">88.79909</data>
+</node>
+<node id="Анна Петрова">
+<data key="label">Анна Петрова</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.014066226788670227</data>
+<data key="d4">0.002270001841531738</data>
+<data key="d3">0.23644501278772379</data>
+<data key="d2">0.16304347826086957</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">3.4130435</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">74.61092</data>
+<data key="y">135.17451</data>
+</node>
+<node id="Юлия Александрович">
+<data key="label">Юлия Александрович</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.014392100859397149</data>
+<data key="d4">0.008087295314104714</data>
+<data key="d3">0.23644501278772379</data>
+<data key="d2">0.16304347826086957</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">3.4130435</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">62.181522</data>
+<data key="y">128.84662</data>
+</node>
+<node id="Александр Еремеев">
+<data key="label">Александр Еремеев</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.013226121979495638</data>
+<data key="d4">0.0010823200264194052</data>
+<data key="d3">0.20772946859903382</data>
+<data key="d2">0.15217391304347827</data>
+<data key="d1">male</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">3.347826</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">94.75836</data>
+<data key="y">142.39304</data>
+</node>
+<node id="Владимир Тагинцев">
+<data key="label">Владимир Тагинцев</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.01243504766906126</data>
+<data key="d4">0.00240745927712582</data>
+<data key="d3">0.23644501278772379</data>
+<data key="d2">0.14130434782608695</data>
+<data key="d1">male</data>
+<data key="d0">Воронеж</data>
+<data key="size">3.2826087</data>
+<data key="r">239</data>
+<data key="g">88</data>
+<data key="b">219</data>
+<data key="x">104.04165</data>
+<data key="y">119.70876</data>
+</node>
+<node id="Лиза Басинских">
+<data key="label">Лиза Басинских</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.012422149131925382</data>
+<data key="d4">0.0046267806734658495</data>
+<data key="d3">0.23506229341469617</data>
+<data key="d2">0.14130434782608695</data>
+<data key="d1">female</data>
+<data key="d0">Липецк</data>
+<data key="size">3.2826087</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">69.41487</data>
+<data key="y">152.35376</data>
+</node>
+<node id="Никита Пастухов">
+<data key="label">Никита Пастухов</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.017895418722651733</data>
+<data key="d4">0.015169946961973754</data>
+<data key="d3">0.2399740428293316</data>
+<data key="d2">0.19565217391304346</data>
+<data key="d1">male</data>
+<data key="d0">Липецк</data>
+<data key="size">3.6086955</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">64.2569</data>
+<data key="y">112.14694</data>
+</node>
+<node id="Таня Никифорова">
+<data key="label">Таня Никифорова</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.013527416345340784</data>
+<data key="d4">0.01016346276294297</data>
+<data key="d3">0.2371424907015519</data>
+<data key="d2">0.15217391304347827</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">3.347826</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">81.38736</data>
+<data key="y">117.136665</data>
+</node>
+<node id="Dанил Сапронов">
+<data key="label">Dанил Сапронов</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.014153767231165064</data>
+<data key="d4">0.005885795985276192</data>
+<data key="d3">0.2378440957036275</data>
+<data key="d2">0.16304347826086957</data>
+<data key="d1">male</data>
+<data key="d0">Липецк</data>
+<data key="size">3.4130435</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">82.92821</data>
+<data key="y">147.98872</data>
+</node>
+<node id="Никита Никифоров">
+<data key="label">Никита Никифоров</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.012348747240649027</data>
+<data key="d4">0.00203926294619657</data>
+<data key="d3">0.23644501278772379</data>
+<data key="d2">0.14130434782608695</data>
+<data key="d1">male</data>
+<data key="d0">Липецк</data>
+<data key="size">3.2826087</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">93.90419</data>
+<data key="y">114.86605</data>
+</node>
+<node id="Елизавета Ильина">
+<data key="label">Елизавета Ильина</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.010635429044386555</data>
+<data key="d4">0.0018008367760933813</data>
+<data key="d3">0.23369565217391305</data>
+<data key="d2">0.11956521739130435</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">3.152174</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">87.40612</data>
+<data key="y">131.7177</data>
+</node>
+<node id="Светлана Лазарева">
+<data key="label">Светлана Лазарева</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.015278889194747503</data>
+<data key="d4">0.011085952971147464</data>
+<data key="d3">0.2371424907015519</data>
+<data key="d2">0.17391304347826086</data>
+<data key="d1">female</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">3.478261</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">57.18567</data>
+<data key="y">144.62325</data>
+</node>
+<node id="Глеб Чурсин">
+<data key="label">Глеб Чурсин</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.012543904598686324</data>
+<data key="d4">0.07431101968772871</data>
+<data key="d3">0.2781706032796751</data>
+<data key="d2">0.08695652173913043</data>
+<data key="d1">male</data>
+<data key="d0">Липецк</data>
+<data key="size">2.9565217</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">106.00087</data>
+<data key="y">-29.06661</data>
+</node>
+<node id="Алексей Смирнов">
+<data key="label">Алексей Смирнов</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.01008922949737009</data>
+<data key="d4">0.03494790259473029</data>
+<data key="d3">0.28108847674065063</data>
+<data key="d2">0.07608695652173914</data>
+<data key="d1">male</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.8913043</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">106.431335</data>
+<data key="y">-7.166607</data>
+</node>
+<node id="Илья Ставицкий">
+<data key="label">Илья Ставицкий</data>
+<data key="d8">19</data>
+<data key="d7">0</data>
+<data key="d6">0</data>
+<data key="d5">0.004195033781718128</data>
+<data key="d4">4.777830864787386E-5</data>
+<data key="d3">0.17944487577639753</data>
+<data key="d2">0.043478260869565216</data>
+<data key="d1">male</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.6956522</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">-78.81921</data>
+<data key="y">-62.37695</data>
+</node>
+<node id="Маргарита Петрусевич">
+<data key="label">Маргарита Петрусевич</data>
+<data key="d8">77</data>
+<data key="d7">2</data>
+<data key="d6">0</data>
+<data key="d5">0.004481648822037274</data>
+<data key="d4">0.0</data>
+<data key="d3">0.16507454691545398</data>
+<data key="d2">0.010869565217391304</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">2.5</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-5.6245613</data>
+<data key="y">4.5741687</data>
+</node>
+<node id="Илья Лыжин">
+<data key="label">Илья Лыжин</data>
+<data key="d8">77</data>
+<data key="d7">2</data>
+<data key="d6">0</data>
+<data key="d5">0.01104314188960986</data>
+<data key="d4">0.020305781175346392</data>
+<data key="d3">0.17104532839962996</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.6304348</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-3.4043367</data>
+<data key="y">19.31045</data>
+</node>
+<node id="Алина Щеглеватых">
+<data key="label">Алина Щеглеватых</data>
+<data key="d8">27</data>
+<data key="d7">1</data>
+<data key="d6">0</data>
+<data key="d5">0.0037863528364646395</data>
+<data key="d4">0.0015221468802271833</data>
+<data key="d3">0.23034757692786847</data>
+<data key="d2">0.021739130434782608</data>
+<data key="d1">female</data>
+<data key="d0">Липецк</data>
+<data key="size">2.5652175</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">82.16151</data>
+<data key="y">25.451004</data>
+</node>
+<node id="Иван Карамышев">
+<data key="label">Иван Карамышев</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.017136075427592323</data>
+<data key="d4">0.2863804437171505</data>
+<data key="d3">0.2933989209774675</data>
+<data key="d2">0.18478260869565216</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">3.5434783</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">74.68227</data>
+<data key="y">95.84072</data>
+</node>
+<node id="Марина Стюфляева">
+<data key="label">Марина Стюфляева</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.012577457415062764</data>
+<data key="d4">0.004970378930100558</data>
+<data key="d3">0.23644501278772379</data>
+<data key="d2">0.14130434782608695</data>
+<data key="d1">female</data>
+<data key="d0">Липецк</data>
+<data key="size">3.2826087</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">49.934273</data>
+<data key="y">130.8591</data>
+</node>
+<node id="Дмитрий Ельников">
+<data key="label">Дмитрий Ельников</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.008636715052422587</data>
+<data key="d4">0.006356518670277565</data>
+<data key="d3">0.2316752286680867</data>
+<data key="d2">0.08695652173913043</data>
+<data key="d1">male</data>
+<data key="d0">Липецк</data>
+<data key="size">2.9565217</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">56.958305</data>
+<data key="y">97.95063</data>
+</node>
+<node id="Женёк Филиппов">
+<data key="label">Женёк Филиппов</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.010489965837724768</data>
+<data key="d4">0.009146615978914115</data>
+<data key="d3">0.2330182734719597</data>
+<data key="d2">0.10869565217391304</data>
+<data key="d1">male</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">3.0869565</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">41.355614</data>
+<data key="y">112.78461</data>
+</node>
+<node id="Алина Манюхина">
+<data key="label">Алина Манюхина</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.0040849532788686605</data>
+<data key="d4">0.0</data>
+<data key="d3">0.1932483277591973</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">female</data>
+<data key="d0">Москва</data>
+<data key="size">2.6304348</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">33.929077</data>
+<data key="y">99.0249</data>
+</node>
+<node id="Илья Достойнов">
+<data key="label">Илья Достойнов</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.0033146086507116687</data>
+<data key="d4">0.0</data>
+<data key="d3">0.22645437844458055</data>
+<data key="d2">0.021739130434782608</data>
+<data key="d1">male</data>
+<data key="d0">Луганское</data>
+<data key="size">2.5652175</data>
+<data key="r">222</data>
+<data key="g">113</data>
+<data key="b">0</data>
+<data key="x">46.952595</data>
+<data key="y">67.063965</data>
+</node>
+<node id="Олег Ершов">
+<data key="label">Олег Ершов</data>
+<data key="d8">53</data>
+<data key="d7">2</data>
+<data key="d6">0</data>
+<data key="d5">0.004142722437408477</data>
+<data key="d4">0.0</data>
+<data key="d3">0.1696019079068061</data>
+<data key="d2">0.010869565217391304</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.5</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">5.0357723</data>
+<data key="y">6.077247</data>
+</node>
+<node id="Эдуард Пахомов">
+<data key="label">Эдуард Пахомов</data>
+<data key="d8">53</data>
+<data key="d7">2</data>
+<data key="d6">0</data>
+<data key="d5">0.004742349940341437</data>
+<data key="d4">0.0</data>
+<data key="d3">0.14484919702311008</data>
+<data key="d2">0.010869565217391304</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.5</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">-9.157837</data>
+<data key="y">15.076322</data>
+</node>
+<node id="Анастасия Васильева">
+<data key="label">Анастасия Васильева</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.006971306649746025</data>
+<data key="d4">4.920028211953677E-4</data>
+<data key="d3">0.1946520686388041</data>
+<data key="d2">0.06521739130434782</data>
+<data key="d1">female</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.826087</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">30.537378</data>
+<data key="y">123.961716</data>
+</node>
+<node id="Алексей Егоров">
+<data key="label">Алексей Егоров</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.004302124595250461</data>
+<data key="d4">0.00250750801993038</data>
+<data key="d3">0.22773740608449317</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">male</data>
+<data key="d0">Липецк</data>
+<data key="size">2.6304348</data>
+<data key="r">255</data>
+<data key="g">55</data>
+<data key="b">83</data>
+<data key="x">33.799503</data>
+<data key="y">84.08129</data>
+</node>
+<node id="Карен Мелконян">
+<data key="label">Карен Мелконян</data>
+<data key="d8">67</data>
+<data key="d7">4</data>
+<data key="d6">0</data>
+<data key="d5">0.004243254597315129</data>
+<data key="d4">6.82547266398198E-5</data>
+<data key="d3">0.19232369461202414</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">male</data>
+<data key="d0">Москва</data>
+<data key="size">2.6304348</data>
+<data key="r">0</data>
+<data key="g">125</data>
+<data key="b">138</data>
+<data key="x">41.81174</data>
+<data key="y">80.161545</data>
+</node>
+<node id="Нияз Наибулин">
+<data key="label">Нияз Наибулин</data>
+<data key="d8">53</data>
+<data key="d7">2</data>
+<data key="d6">0</data>
+<data key="d5">0.008901404536623116</data>
+<data key="d4">0.0</data>
+<data key="d3">0.18609098228663445</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">male</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.6304348</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">23.28031</data>
+<data key="y">11.493349</data>
+</node>
+<node id="Ваня Спит">
+<data key="label">Ваня Спит</data>
+<data key="d8">53</data>
+<data key="d7">2</data>
+<data key="d6">0</data>
+<data key="d5">0.01052078201104511</data>
+<data key="d4">0.05788287799157364</data>
+<data key="d3">0.22581827063996093</data>
+<data key="d2">0.043478260869565216</data>
+<data key="d1">male</data>
+<data key="d0">&lt;UNKNOWN&gt;</data>
+<data key="size">2.6956522</data>
+<data key="r">87</data>
+<data key="g">171</data>
+<data key="b">0</data>
+<data key="x">39.338398</data>
+<data key="y">6.373263</data>
+</node>
+<node id="Shoky Huss">
+<data key="label">Shoky Huss</data>
+<data key="d8">53</data>
+<data key="d7">2</data>
+<data key="d6">0</data>
+<data key="d5">0.008901404536623116</data>
+<data key="d4">0.0</data>
+<data key="d3">0.18609098228663445</data>
+<data key="d2">0.03260869565217391</data>
+<data key="d1">male</data>
+<data key="d0">Cairo</data>
+<data key="size">2.6304348</data>
+<data key="r">0</data>
+<data key="g">163</data>
+<data key="b">101</data>
+<data key="x">23.221624</data>
+<data key="y">17.23923</data>
+</node>
+<edge id="0" source="Сергей Горбачёв" target="Антон Наумов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1" source="Сергей Горбачёв" target="Катя Минеева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2" source="Сергей Горбачёв" target="Евгений Правда">
+<data key="weight">1.0</data>
+</edge>
+<edge id="3" source="Сергей Горбачёв" target="Екатерина Глазкова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="4" source="Сергей Горбачёв" target="Никита Ширин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="5" source="Сергей Горбачёв" target="Наталья Соболева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="6" source="Сергей Горбачёв" target="Антон Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="7" source="Сергей Горбачёв" target="Камиль Лотфуллин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="8" source="Сергей Горбачёв" target="Юлия Ренёва">
+<data key="weight">1.0</data>
+</edge>
+<edge id="9" source="Сергей Горбачёв" target="Максимилиан Артемьев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="10" source="Сергей Горбачёв" target="Александр Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="11" source="Сергей Горбачёв" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="12" source="Сергей Горбачёв" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="13" source="Сергей Горбачёв" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="14" source="Сергей Горбачёв" target="Андрей Соколов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="15" source="Сергей Горбачёв" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="16" source="Сергей Горбачёв" target="Мария Фоменко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="17" source="Сергей Горбачёв" target="Евгений Мещеряков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="18" source="Сергей Горбачёв" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="19" source="Сергей Горбачёв" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="20" source="Антон Наумов" target="Катя Минеева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="21" source="Антон Наумов" target="Евгений Правда">
+<data key="weight">1.0</data>
+</edge>
+<edge id="22" source="Антон Наумов" target="Екатерина Глазкова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="23" source="Антон Наумов" target="Никита Ширин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="24" source="Антон Наумов" target="Наталья Соболева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="25" source="Антон Наумов" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="26" source="Антон Наумов" target="Антон Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="27" source="Антон Наумов" target="Камиль Лотфуллин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="28" source="Антон Наумов" target="Юлия Ренёва">
+<data key="weight">1.0</data>
+</edge>
+<edge id="29" source="Антон Наумов" target="Максимилиан Артемьев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="30" source="Антон Наумов" target="Александр Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="31" source="Антон Наумов" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="32" source="Антон Наумов" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="33" source="Антон Наумов" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="34" source="Антон Наумов" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35" source="Антон Наумов" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="36" source="Антон Наумов" target="Мария Фоменко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="37" source="Антон Наумов" target="Евгений Мещеряков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="38" source="Антон Наумов" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="39" source="Антон Наумов" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="40" source="Катя Минеева" target="Евгений Правда">
+<data key="weight">1.0</data>
+</edge>
+<edge id="41" source="Катя Минеева" target="Екатерина Глазкова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="42" source="Катя Минеева" target="Никита Ширин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="43" source="Катя Минеева" target="Наталья Соболева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="44" source="Катя Минеева" target="Антон Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="45" source="Катя Минеева" target="Камиль Лотфуллин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="46" source="Катя Минеева" target="Максимилиан Артемьев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="47" source="Катя Минеева" target="Александр Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="48" source="Катя Минеева" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="49" source="Катя Минеева" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="50" source="Катя Минеева" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="51" source="Катя Минеева" target="Андрей Соколов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="52" source="Катя Минеева" target="Олег Николаев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="53" source="Катя Минеева" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="54" source="Катя Минеева" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="55" source="Катя Минеева" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="56" source="Евгений Правда" target="Екатерина Глазкова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="57" source="Евгений Правда" target="Никита Ширин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="58" source="Евгений Правда" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="59" source="Евгений Правда" target="Антон Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="60" source="Евгений Правда" target="Камиль Лотфуллин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="61" source="Евгений Правда" target="Юлия Ренёва">
+<data key="weight">1.0</data>
+</edge>
+<edge id="62" source="Евгений Правда" target="Александр Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="63" source="Евгений Правда" target="Евгений Сидоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="64" source="Евгений Правда" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="65" source="Евгений Правда" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="66" source="Евгений Правда" target="Николай Кондрашов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="67" source="Евгений Правда" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="68" source="Евгений Правда" target="Юрий Баранов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="69" source="Евгений Правда" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="70" source="Евгений Правда" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="71" source="Екатерина Глазкова" target="Никита Ширин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="72" source="Екатерина Глазкова" target="Наталья Соболева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="73" source="Екатерина Глазкова" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="74" source="Екатерина Глазкова" target="Антон Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="75" source="Екатерина Глазкова" target="Юлия Ренёва">
+<data key="weight">1.0</data>
+</edge>
+<edge id="76" source="Екатерина Глазкова" target="Максимилиан Артемьев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="77" source="Екатерина Глазкова" target="Александр Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="78" source="Екатерина Глазкова" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="79" source="Екатерина Глазкова" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="80" source="Екатерина Глазкова" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="81" source="Екатерина Глазкова" target="Мария Фоменко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="82" source="Екатерина Глазкова" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="83" source="Екатерина Глазкова" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="84" source="Никита Ширин" target="Наталья Соболева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="85" source="Никита Ширин" target="Камиль Лотфуллин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="86" source="Никита Ширин" target="Александр Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="87" source="Никита Ширин" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="88" source="Никита Ширин" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="89" source="Никита Ширин" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="90" source="Никита Ширин" target="Андрей Соколов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="91" source="Никита Ширин" target="Олег Николаев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="92" source="Никита Ширин" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="93" source="Никита Ширин" target="Евгений Мещеряков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="94" source="Никита Ширин" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="95" source="Наталья Соболева" target="Илья Ставицкий">
+<data key="weight">1.0</data>
+</edge>
+<edge id="96" source="Наталья Соболева" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="97" source="Наталья Соболева" target="Камиль Лотфуллин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="98" source="Наталья Соболева" target="Юлия Ренёва">
+<data key="weight">1.0</data>
+</edge>
+<edge id="99" source="Наталья Соболева" target="Максимилиан Артемьев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="100" source="Наталья Соболева" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="101" source="Наталья Соболева" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="102" source="Наталья Соболева" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="103" source="Наталья Соболева" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="104" source="Наталья Соболева" target="Мария Фоменко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="105" source="Наталья Соболева" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="106" source="Наталья Соболева" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="107" source="Антон Чернявский" target="Камиль Лотфуллин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="108" source="Антон Чернявский" target="Александр Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="109" source="Антон Чернявский" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="110" source="Антон Чернявский" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="111" source="Антон Чернявский" target="Николай Кондрашов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="112" source="Антон Чернявский" target="Юрий Баранов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="113" source="Антон Чернявский" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="114" source="Антон Чернявский" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="115" source="Камиль Лотфуллин" target="Илья Ставицкий">
+<data key="weight">1.0</data>
+</edge>
+<edge id="116" source="Камиль Лотфуллин" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="117" source="Камиль Лотфуллин" target="Юлия Ренёва">
+<data key="weight">1.0</data>
+</edge>
+<edge id="118" source="Камиль Лотфуллин" target="Максимилиан Артемьев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="119" source="Камиль Лотфуллин" target="Александр Чернявский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="120" source="Камиль Лотфуллин" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="121" source="Камиль Лотфуллин" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="122" source="Камиль Лотфуллин" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="123" source="Камиль Лотфуллин" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="124" source="Камиль Лотфуллин" target="Юрий Баранов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="125" source="Камиль Лотфуллин" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="126" source="Камиль Лотфуллин" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="127" source="Камиль Лотфуллин" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="128" source="Юлия Ренёва" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="129" source="Юлия Ренёва" target="Максимилиан Артемьев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="130" source="Юлия Ренёва" target="Евгений Сидоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="131" source="Юлия Ренёва" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="132" source="Юлия Ренёва" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="133" source="Юлия Ренёва" target="Николай Кондрашов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="134" source="Юлия Ренёва" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="135" source="Юлия Ренёва" target="Юрий Баранов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="136" source="Юлия Ренёва" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="137" source="Юлия Ренёва" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="138" source="Юлия Ренёва" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="139" source="Максимилиан Артемьев" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="140" source="Максимилиан Артемьев" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="141" source="Максимилиан Артемьев" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="142" source="Максимилиан Артемьев" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="143" source="Максимилиан Артемьев" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="144" source="Максимилиан Артемьев" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="145" source="Максимилиан Артемьев" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="146" source="Максимилиан Артемьев" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="147" source="Александр Чернявский" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="148" source="Александр Чернявский" target="Лёха Гавриков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="149" source="Александр Чернявский" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="150" source="Александр Чернявский" target="Николай Кондрашов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="151" source="Александр Чернявский" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="152" source="Александр Чернявский" target="Юрий Баранов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="153" source="Александр Чернявский" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="154" source="Александр Чернявский" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="155" source="Лёха Гавриков" target="Илья Ставицкий">
+<data key="weight">1.0</data>
+</edge>
+<edge id="156" source="Лёха Гавриков" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="157" source="Лёха Гавриков" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="158" source="Лёха Гавриков" target="Ярослав Ребенко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="159" source="Лёха Гавриков" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="160" source="Лёха Гавриков" target="Юрий Баранов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="161" source="Лёха Гавриков" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="162" source="Лёха Гавриков" target="Мария Фоменко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="163" source="Лёха Гавриков" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="164" source="Лёха Гавриков" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="165" source="Ярослав Ребенко" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="166" source="Ярослав Ребенко" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="167" source="Ярослав Ребенко" target="Никита Нестеров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="168" source="Ярослав Ребенко" target="Андрей Соколов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="169" source="Ярослав Ребенко" target="Олег Николаев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="170" source="Ярослав Ребенко" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="171" source="Ярослав Ребенко" target="Мария Фоменко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="172" source="Ярослав Ребенко" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="173" source="Ярослав Ребенко" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="174" source="Никита Нестеров" target="Евгений Сидоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="175" source="Никита Нестеров" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="176" source="Никита Нестеров" target="Олег Николаев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="177" source="Никита Нестеров" target="Валерий Батурин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="178" source="Никита Нестеров" target="Евгений Мещеряков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="179" source="Никита Нестеров" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="180" source="Андрей Соколов" target="Соня Хегай">
+<data key="weight">1.0</data>
+</edge>
+<edge id="181" source="Андрей Соколов" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="182" source="Валерий Батурин" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="183" source="Валерий Батурин" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="184" source="Валерий Батурин" target="Мария Фоменко">
+<data key="weight">1.0</data>
+</edge>
+<edge id="185" source="Валерий Батурин" target="Евгений Мещеряков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="186" source="Валерий Батурин" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="187" source="Валерий Батурин" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="188" source="Мария Фоменко" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="189" source="Евгений Мещеряков" target="Михаил Флоринский">
+<data key="weight">1.0</data>
+</edge>
+<edge id="190" source="Михаил Флоринский" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="191" source="Михаил Флоринский" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="192" source="Михаил Флоринский" target="Николай Кондрашов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="193" source="Михаил Флоринский" target="Олег Николаев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="194" source="Михаил Флоринский" target="Денис Тарасов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="195" source="Денис Тарасов" target="Дмитрий Ларькин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="196" source="Денис Тарасов" target="Денис Шаклеин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="197" source="Денис Тарасов" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="198" source="Егор Иванов" target="Ира Гутман">
+<data key="weight">1.0</data>
+</edge>
+<edge id="199" source="Егор Иванов" target="Женя Соловьев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="200" source="Егор Иванов" target="Дарья Асатурян">
+<data key="weight">1.0</data>
+</edge>
+<edge id="201" source="Егор Иванов" target="Артем Похмельных">
+<data key="weight">1.0</data>
+</edge>
+<edge id="202" source="Егор Иванов" target="Соня Хегай">
+<data key="weight">1.0</data>
+</edge>
+<edge id="203" source="Егор Иванов" target="Алина Щукина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="204" source="Егор Иванов" target="Глеб Вон">
+<data key="weight">1.0</data>
+</edge>
+<edge id="205" source="Егор Иванов" target="Роман Цветков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="206" source="Ира Гутман" target="Артем Похмельных">
+<data key="weight">1.0</data>
+</edge>
+<edge id="207" source="Ира Гутман" target="Соня Хегай">
+<data key="weight">1.0</data>
+</edge>
+<edge id="208" source="Ира Гутман" target="Алина Щукина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="209" source="Ира Гутман" target="Роман Цветков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="210" source="Женя Соловьев" target="Павел Мальков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="211" source="Женя Соловьев" target="Дима Уткин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212" source="Дарья Асатурян" target="Лиза Филонюк">
+<data key="weight">1.0</data>
+</edge>
+<edge id="213" source="Дарья Асатурян" target="Александр Панов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="214" source="Артем Похмельных" target="Галина Серебряная">
+<data key="weight">1.0</data>
+</edge>
+<edge id="215" source="Артем Похмельных" target="Софья Шепелева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="216" source="Артем Похмельных" target="Анна Двуреченская">
+<data key="weight">1.0</data>
+</edge>
+<edge id="217" source="Артем Похмельных" target="Соня Хегай">
+<data key="weight">1.0</data>
+</edge>
+<edge id="218" source="Артем Похмельных" target="Александр Панов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="219" source="Артем Похмельных" target="Глеб Чурсин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="220" source="Артем Похмельных" target="Алина Щукина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="221" source="Артем Похмельных" target="Инесса Шуйкова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="222" source="Артем Похмельных" target="Оксана Пикалова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="223" source="Артем Похмельных" target="Алексей Смирнов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="224" source="Артем Похмельных" target="Роман Цветков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="225" source="Артем Похмельных" target="Наталья Некрасова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="226" source="Соня Хегай" target="Александр Панов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="227" source="Соня Хегай" target="Алина Щукина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="228" source="Соня Хегай" target="Роман Цветков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="229" source="Алина Щукина" target="Галина Серебряная">
+<data key="weight">1.0</data>
+</edge>
+<edge id="230" source="Алина Щукина" target="Софья Шепелева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="231" source="Алина Щукина" target="Анна Двуреченская">
+<data key="weight">1.0</data>
+</edge>
+<edge id="232" source="Алина Щукина" target="Александр Панов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="233" source="Алина Щукина" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="234" source="Алина Щукина" target="Глеб Чурсин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="235" source="Алина Щукина" target="Инесса Шуйкова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="236" source="Алина Щукина" target="Оксана Пикалова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="237" source="Алина Щукина" target="Алексей Смирнов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="238" source="Алина Щукина" target="Глеб Вон">
+<data key="weight">1.0</data>
+</edge>
+<edge id="239" source="Алина Щукина" target="Маргарита Мущак">
+<data key="weight">1.0</data>
+</edge>
+<edge id="240" source="Алина Щукина" target="Роман Цветков">
+<data key="weight">1.0</data>
+</edge>
+<edge id="241" source="Алина Щукина" target="Наталья Некрасова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="242" source="Роман Цветков" target="Александр Панов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="243" source="Дмитрий Сопов" target="Лена Сопова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="244" source="Дмитрий Сопов" target="Галина Серебряная">
+<data key="weight">1.0</data>
+</edge>
+<edge id="245" source="Дмитрий Сопов" target="Ирина Артюшина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="246" source="Галина Серебряная" target="Анастасия Петрищева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="247" source="Галина Серебряная" target="Наталья Финкель">
+<data key="weight">1.0</data>
+</edge>
+<edge id="248" source="Галина Серебряная" target="Софья Шепелева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="249" source="Галина Серебряная" target="Анна Двуреченская">
+<data key="weight">1.0</data>
+</edge>
+<edge id="250" source="Галина Серебряная" target="Александр Панов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="251" source="Галина Серебряная" target="Инесса Шуйкова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="252" source="Галина Серебряная" target="Оксана Пикалова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="253" source="Галина Серебряная" target="Маргарита Мущак">
+<data key="weight">1.0</data>
+</edge>
+<edge id="254" source="Галина Серебряная" target="Наталья Некрасова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="255" source="Денис Шаклеин" target="Алексей Соловьёв">
+<data key="weight">1.0</data>
+</edge>
+<edge id="256" source="Денис Шаклеин" target="Николай Кондрашов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="257" source="Алексей Соловьёв" target="Дмитрий Ларькин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="258" source="Алексей Соловьёв" target="Евгений Сидоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="259" source="Алексей Соловьёв" target="Николай Кондрашов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="260" source="Алексей Соловьёв" target="Юрий Баранов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="261" source="Владислав Горбов" target="Илья Сапунов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="262" source="Владислав Горбов" target="Екатерина Алексеева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="263" source="Владислав Горбов" target="Владислав Демидкин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="264" source="Владислав Горбов" target="Александр Шмыров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="265" source="Владислав Горбов" target="Богдан Драчук">
+<data key="weight">1.0</data>
+</edge>
+<edge id="266" source="Илья Сапунов" target="Екатерина Алексеева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="267" source="Илья Сапунов" target="Владислав Демидкин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="268" source="Илья Сапунов" target="Александр Шмыров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="269" source="Илья Сапунов" target="Богдан Драчук">
+<data key="weight">1.0</data>
+</edge>
+<edge id="270" source="Екатерина Алексеева" target="Владислав Демидкин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="271" source="Екатерина Алексеева" target="Александр Шмыров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="272" source="Екатерина Алексеева" target="Богдан Драчук">
+<data key="weight">1.0</data>
+</edge>
+<edge id="273" source="Владислав Демидкин" target="Александр Шмыров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="274" source="Владислав Демидкин" target="Богдан Драчук">
+<data key="weight">1.0</data>
+</edge>
+<edge id="275" source="Александр Шмыров" target="Богдан Драчук">
+<data key="weight">1.0</data>
+</edge>
+<edge id="276" source="Анастасия Петрищева" target="Александр Панов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="277" source="Александр Панов" target="Глеб Чурсин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="278" source="Александр Панов" target="Оксана Пикалова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="279" source="Александр Панов" target="Алексей Смирнов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="280" source="Александр Панов" target="Маргарита Мущак">
+<data key="weight">1.0</data>
+</edge>
+<edge id="281" source="Александр Панов" target="Наталья Некрасова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="282" source="Евгений Сидоров" target="Юрий Баранов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="283" source="Николай Кондрашов" target="Юрий Баранов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="284" source="Юрий Баранов" target="Илья Ставицкий">
+<data key="weight">1.0</data>
+</edge>
+<edge id="285" source="Наталья Финкель" target="Лиза Филонюк">
+<data key="weight">1.0</data>
+</edge>
+<edge id="286" source="Наталья Финкель" target="Ирина Лихачева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="287" source="Лиза Филонюк" target="Ирина Лихачева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="288" source="Павел Мальков" target="Маргарита Петрусевич">
+<data key="weight">1.0</data>
+</edge>
+<edge id="289" source="Павел Мальков" target="Илья Лыжин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="290" source="Павел Мальков" target="Дима Уткин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="291" source="Дима Уткин" target="Олег Ершов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="292" source="Дима Уткин" target="Илья Лыжин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="293" source="Дима Уткин" target="Нияз Наибулин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="294" source="Дима Уткин" target="Ваня Спит">
+<data key="weight">1.0</data>
+</edge>
+<edge id="295" source="Дима Уткин" target="Shoky Huss">
+<data key="weight">1.0</data>
+</edge>
+<edge id="296" source="Софья Шепелева" target="Анна Двуреченская">
+<data key="weight">1.0</data>
+</edge>
+<edge id="297" source="Софья Шепелева" target="Глеб Чурсин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="298" source="Софья Шепелева" target="Инесса Шуйкова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="299" source="Софья Шепелева" target="Алексей Смирнов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="300" source="Софья Шепелева" target="Наталья Некрасова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="301" source="Анна Двуреченская" target="Глеб Чурсин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="302" source="Анна Двуреченская" target="Инесса Шуйкова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="303" source="Анна Двуреченская" target="Оксана Пикалова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="304" source="Анна Двуреченская" target="Наталья Некрасова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="305" source="Инесса Шуйкова" target="Алина Щеглеватых">
+<data key="weight">1.0</data>
+</edge>
+<edge id="306" source="Инесса Шуйкова" target="Оксана Пикалова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="307" source="Инесса Шуйкова" target="Алексей Смирнов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="308" source="Инесса Шуйкова" target="Наталья Некрасова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="309" source="Оксана Пикалова" target="Маргарита Мущак">
+<data key="weight">1.0</data>
+</edge>
+<edge id="310" source="Оксана Пикалова" target="Наталья Некрасова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="311" source="Наталья Некрасова" target="Глеб Чурсин">
+<data key="weight">1.0</data>
+</edge>
+<edge id="312" source="Валерия Неклюдова" target="Алена Поминова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="313" source="Валерия Неклюдова" target="Анна Петрова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="314" source="Валерия Неклюдова" target="Юлия Александрович">
+<data key="weight">1.0</data>
+</edge>
+<edge id="315" source="Валерия Неклюдова" target="Александр Еремеев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="316" source="Валерия Неклюдова" target="Владимир Тагинцев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="317" source="Валерия Неклюдова" target="Лиза Басинских">
+<data key="weight">1.0</data>
+</edge>
+<edge id="318" source="Валерия Неклюдова" target="Никита Пастухов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="319" source="Валерия Неклюдова" target="Таня Никифорова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="320" source="Валерия Неклюдова" target="Dанил Сапронов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="321" source="Валерия Неклюдова" target="Никита Никифоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="322" source="Валерия Неклюдова" target="Елизавета Ильина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="323" source="Валерия Неклюдова" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="324" source="Алена Поминова" target="Алина Щеглеватых">
+<data key="weight">1.0</data>
+</edge>
+<edge id="325" source="Алена Поминова" target="Александр Еремеев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="326" source="Алена Поминова" target="Владимир Тагинцев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="327" source="Алена Поминова" target="Никита Пастухов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="328" source="Алена Поминова" target="Таня Никифорова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="329" source="Алена Поминова" target="Dанил Сапронов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="330" source="Алена Поминова" target="Никита Никифоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="331" source="Алена Поминова" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="332" source="Алена Поминова" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="333" source="Алена Поминова" target="Алексей Смирнов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="334" source="Анна Петрова" target="Юлия Александрович">
+<data key="weight">1.0</data>
+</edge>
+<edge id="335" source="Анна Петрова" target="Александр Еремеев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="336" source="Анна Петрова" target="Владимир Тагинцев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="337" source="Анна Петрова" target="Лиза Басинских">
+<data key="weight">1.0</data>
+</edge>
+<edge id="338" source="Анна Петрова" target="Никита Пастухов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="339" source="Анна Петрова" target="Таня Никифорова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="340" source="Анна Петрова" target="Dанил Сапронов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="341" source="Анна Петрова" target="Никита Никифоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="342" source="Анна Петрова" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="343" source="Анна Петрова" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="344" source="Анна Петрова" target="Дмитрий Ельников">
+<data key="weight">1.0</data>
+</edge>
+<edge id="345" source="Анна Петрова" target="Елизавета Ильина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="346" source="Анна Петрова" target="Женёк Филиппов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="347" source="Анна Петрова" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="348" source="Юлия Александрович" target="Александр Еремеев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="349" source="Юлия Александрович" target="Лиза Басинских">
+<data key="weight">1.0</data>
+</edge>
+<edge id="350" source="Юлия Александрович" target="Никита Пастухов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="351" source="Юлия Александрович" target="Таня Никифорова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="352" source="Юлия Александрович" target="Dанил Сапронов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="353" source="Юлия Александрович" target="Алина Манюхина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="354" source="Юлия Александрович" target="Никита Никифоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="355" source="Юлия Александрович" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="356" source="Юлия Александрович" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="357" source="Юлия Александрович" target="Дмитрий Ельников">
+<data key="weight">1.0</data>
+</edge>
+<edge id="358" source="Юлия Александрович" target="Елизавета Ильина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="359" source="Юлия Александрович" target="Женёк Филиппов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="360" source="Юлия Александрович" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="361" source="Александр Еремеев" target="Владимир Тагинцев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="362" source="Александр Еремеев" target="Лиза Басинских">
+<data key="weight">1.0</data>
+</edge>
+<edge id="363" source="Александр Еремеев" target="Никита Пастухов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="364" source="Александр Еремеев" target="Таня Никифорова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="365" source="Александр Еремеев" target="Dанил Сапронов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="366" source="Александр Еремеев" target="Никита Никифоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="367" source="Александр Еремеев" target="Дмитрий Ельников">
+<data key="weight">1.0</data>
+</edge>
+<edge id="368" source="Александр Еремеев" target="Елизавета Ильина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="369" source="Александр Еремеев" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="370" source="Александр Еремеев" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="371" source="Владимир Тагинцев" target="Лиза Басинских">
+<data key="weight">1.0</data>
+</edge>
+<edge id="372" source="Владимир Тагинцев" target="Никита Пастухов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="373" source="Владимир Тагинцев" target="Таня Никифорова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="374" source="Владимир Тагинцев" target="Dанил Сапронов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="375" source="Владимир Тагинцев" target="Никита Никифоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="376" source="Владимир Тагинцев" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="377" source="Владимир Тагинцев" target="Дмитрий Ельников">
+<data key="weight">1.0</data>
+</edge>
+<edge id="378" source="Владимир Тагинцев" target="Елизавета Ильина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="379" source="Владимир Тагинцев" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="380" source="Лиза Басинских" target="Никита Пастухов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="381" source="Лиза Басинских" target="Таня Никифорова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="382" source="Лиза Басинских" target="Dанил Сапронов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="383" source="Лиза Басинских" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="384" source="Лиза Басинских" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="385" source="Лиза Басинских" target="Елизавета Ильина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="386" source="Лиза Басинских" target="Анастасия Васильева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="387" source="Лиза Басинских" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="388" source="Никита Пастухов" target="Илья Достойнов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="389" source="Никита Пастухов" target="Таня Никифорова">
+<data key="weight">1.0</data>
+</edge>
+<edge id="390" source="Никита Пастухов" target="Dанил Сапронов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="391" source="Никита Пастухов" target="Алина Манюхина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="392" source="Никита Пастухов" target="Никита Никифоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="393" source="Никита Пастухов" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="394" source="Никита Пастухов" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="395" source="Никита Пастухов" target="Дмитрий Ельников">
+<data key="weight">1.0</data>
+</edge>
+<edge id="396" source="Никита Пастухов" target="Алексей Егоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="397" source="Никита Пастухов" target="Женёк Филиппов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="398" source="Никита Пастухов" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="399" source="Таня Никифорова" target="Dанил Сапронов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="400" source="Таня Никифорова" target="Никита Никифоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="401" source="Таня Никифорова" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="402" source="Таня Никифорова" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="403" source="Таня Никифорова" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="404" source="Таня Никифорова" target="Карен Мелконян">
+<data key="weight">1.0</data>
+</edge>
+<edge id="405" source="Dанил Сапронов" target="Никита Никифоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="406" source="Dанил Сапронов" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="407" source="Dанил Сапронов" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="408" source="Dанил Сапронов" target="Елизавета Ильина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="409" source="Dанил Сапронов" target="Анастасия Васильева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="410" source="Dанил Сапронов" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="411" source="Никита Никифоров" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="412" source="Никита Никифоров" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="413" source="Никита Никифоров" target="Елизавета Ильина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="414" source="Никита Никифоров" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="415" source="Елизавета Ильина" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="416" source="Елизавета Ильина" target="Женёк Филиппов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="417" source="Елизавета Ильина" target="Светлана Лазарева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="418" source="Светлана Лазарева" target="Алина Манюхина">
+<data key="weight">1.0</data>
+</edge>
+<edge id="419" source="Светлана Лазарева" target="Иван Карамышев">
+<data key="weight">1.0</data>
+</edge>
+<edge id="420" source="Светлана Лазарева" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="421" source="Светлана Лазарева" target="Анастасия Васильева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="422" source="Светлана Лазарева" target="Женёк Филиппов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="423" source="Глеб Чурсин" target="Алексей Смирнов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="424" source="Глеб Чурсин" target="Ваня Спит">
+<data key="weight">1.0</data>
+</edge>
+<edge id="425" source="Илья Лыжин" target="Эдуард Пахомов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="426" source="Иван Карамышев" target="Илья Достойнов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="427" source="Иван Карамышев" target="Марина Стюфляева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="428" source="Иван Карамышев" target="Дмитрий Ельников">
+<data key="weight">1.0</data>
+</edge>
+<edge id="429" source="Иван Карамышев" target="Алексей Егоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="430" source="Иван Карамышев" target="Женёк Филиппов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="431" source="Марина Стюфляева" target="Анастасия Васильева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="432" source="Марина Стюфляева" target="Женёк Филиппов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="433" source="Дмитрий Ельников" target="Женёк Филиппов">
+<data key="weight">1.0</data>
+</edge>
+<edge id="434" source="Дмитрий Ельников" target="Карен Мелконян">
+<data key="weight">1.0</data>
+</edge>
+<edge id="435" source="Женёк Филиппов" target="Анастасия Васильева">
+<data key="weight">1.0</data>
+</edge>
+<edge id="436" source="Женёк Филиппов" target="Карен Мелконян">
+<data key="weight">1.0</data>
+</edge>
+<edge id="437" source="Анастасия Васильева" target="Алексей Егоров">
+<data key="weight">1.0</data>
+</edge>
+<edge id="438" source="Нияз Наибулин" target="Ваня Спит">
+<data key="weight">1.0</data>
+</edge>
+<edge id="439" source="Нияз Наибулин" target="Shoky Huss">
+<data key="weight">1.0</data>
+</edge>
+<edge id="440" source="Ваня Спит" target="Shoky Huss">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
